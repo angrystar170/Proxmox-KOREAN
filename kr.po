@@ -2330,7 +2330,7 @@ msgstr "클립보드에 복사"
 #: pve-manager/www/manager6/window/GuestImport.js:471
 #: pve-manager/www/manager6/window/Restore.js:324
 msgid "Cores"
-msgstr "Cores"
+msgstr "코어"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:86
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:120
@@ -2927,7 +2927,7 @@ msgstr "목적지 포트"
 #: pve-manager/www/manager6/grid/FirewallRules.js:312
 #: pve-manager/www/manager6/grid/FirewallRules.js:974
 msgid "Destination"
-msgstr "대상(Destination)"
+msgstr "목적지"
 
 #: pve-manager/www/manager6/Utils.js:2020
 #: pve-manager/www/manager6/Utils.js:2021
@@ -2946,15 +2946,15 @@ msgstr "대상(Destination)"
 #: pve-manager/www/manager6/node/LVMThin.js:220
 #: pve-manager/www/manager6/node/ZFS.js:330
 msgid "Destroy"
-msgstr "삭제(Destroy)"
+msgstr "파기"
 
 #: pve-manager/www/manager6/storage/ImageView.js:60
 msgid "Destroy '{0}'"
-msgstr "'{0}' 삭제(Destroy)"
+msgstr "'{0}' 파기"
 
 #: pve-manager/www/manager6/ceph/ServiceList.js:385
 msgid "Destroy MON"
-msgstr "MON 삭제(Destroy)"
+msgstr "MON 파기"
 
 #: proxmox-backup/www/window/NamespaceEdit.js:99
 msgid "Destroy Namespace '{0}'"
@@ -2966,11 +2966,11 @@ msgstr "모든 데이터 파기(위험!)"
 
 #: pve-manager/www/manager6/Utils.js:2075
 msgid "Destroy image from unknown guest"
-msgstr "알 수 없는 게스트의 이미지 삭제(Destroy)"
+msgstr "알 수 없는 게스트의 이미지 파기"
 
 #: pve-manager/www/manager6/window/SafeDestroyGuest.js:24
 msgid "Destroy unreferenced disks owned by guest"
-msgstr "게스트가 소유한 참조되지 않은 디스크 삭제(Destroy)"
+msgstr "게스트가 소유한 참조되지 않은 디스크 파기"
 
 #: pve-manager/www/manager6/lxc/Resources.js:237
 #: pve-manager/www/manager6/qemu/HardwareView.js:491
@@ -3361,7 +3361,7 @@ msgstr "네덜란드어"
 
 #: proxmox-backup/www/tape/DriveStatus.js:335
 msgid "Dynamic"
-msgstr "Dynamic"
+msgstr "동적"
 
 #: proxmox-widget-toolkit/src/panel/EmailRecipientPanel.js:55
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:31
@@ -4167,7 +4167,7 @@ msgstr "스토리지 구성에서 폴백"
 
 #: pve-manager/www/manager6/qemu/Smbios1Edit.js:81
 msgid "Family"
-msgstr "Family"
+msgstr "패밀리"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:521
 msgid "Fatal parsing error for at least one repository"
@@ -4929,11 +4929,11 @@ msgstr "휴리스틱 점수"
 #: pve-manager/www/manager6/qemu/CmdMenu.js:72
 #: pve-manager/www/manager6/qemu/Config.js:179
 msgid "Hibernate"
-msgstr "Hibernate"
+msgstr "최대 절전 모드"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:186
 msgid "Hibernation VM State"
-msgstr "Hibernation VM State"
+msgstr "최대 절전 모드 VM 상태"
 
 #: pmg-gui/js/MailProxyOptions.js:73
 msgid "Hide Internal Hosts"
