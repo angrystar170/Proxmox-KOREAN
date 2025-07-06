@@ -5008,7 +5008,7 @@ msgstr "호스트"
 #: pve-manager/www/manager6/qemu/Options.js:163
 #: pve-manager/www/manager6/qemu/Options.js:169
 msgid "Hotplug"
-msgstr "Hotplug"
+msgstr "핫플러그"
 
 #: proxmox-widget-toolkit/src/form/RRDTypeSelector.js:18
 #: proxmox-widget-toolkit/src/form/RRDTypeSelector.js:20
@@ -7718,7 +7718,7 @@ msgstr "OS"
 #: pve-manager/www/manager6/qemu/Options.js:80
 #: pve-manager/www/manager6/window/GuestImport.js:532
 msgid "OS Type"
-msgstr "OS Type"
+msgstr "OS 유형"
 
 #: pve-manager/www/manager6/ceph/OSDDetails.js:141
 msgid "OSD data path"
@@ -7726,7 +7726,7 @@ msgstr "OSD 데이터 경로"
 
 #: pve-manager/www/manager6/ceph/OSDDetails.js:146
 msgid "OSD object store"
-msgstr "OSD object 저장"
+msgstr "OSD 오브젝트 저장"
 
 #: pve-manager/www/manager6/ceph/StatusDetail.js:77
 msgid "OSDs with no metadata, possibly left over from removal"
@@ -7734,7 +7734,7 @@ msgstr "메타데이터가 없는 OSD로, 아마도 제거 후 남아 있는 것
 
 #: pve-manager/www/manager6/window/GuestImport.js:959
 msgid "OVMF is built without LSI drivers, scsi hardware was set to '{1}'"
-msgstr ""
+msgstr "OVMF는 LSI 드라이버 없이 빌드되었으며, SCSI 하드웨어가 '{1}'로 설정되었습니다."
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:135
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:155
@@ -7808,7 +7808,7 @@ msgstr "영숫자, '_' 및 '-'(시작 부분이 아닌 경우)만 허용됩니�
 
 #: pmg-gui/js/Utils.js:382
 msgid "Only top level headers"
-msgstr ""
+msgstr "최상위 헤더만"
 
 #: proxmox-widget-toolkit/src/panel/NodeInfoRepoStatus.js:46
 msgid "Open Repositories Panel"
@@ -7816,7 +7816,7 @@ msgstr "리포지토리 패널 열기"
 
 #: pve-manager/www/manager6/window/Settings.js:283
 msgid "Open editor on double-click"
-msgstr ""
+msgstr "더블클릭 시 편집기 열기"
 
 #: proxmox-backup/www/tape/BackupOverview.js:361
 msgid "Open restore wizard for {0}"
@@ -7825,7 +7825,7 @@ msgstr "{0}에 대한 복원 마법사 열기"
 #: proxmox-widget-toolkit/src/Schema.js:16
 #: pve-manager/www/manager6/Utils.js:734
 msgid "OpenID Connect Server"
-msgstr "OpenID Connect 서버"
+msgstr "OpenID 커넥트 서버"
 
 #: pmg-gui/js/LoginView.js:250
 msgid "OpenID Connect login - please wait..."
@@ -10717,11 +10717,11 @@ msgstr "속도"
 #: pve-manager/www/manager6/qemu/Options.js:306
 #: pve-manager/www/manager6/qemu/Options.js:311
 msgid "Spice Enhancements"
-msgstr "Spice Enhancements"
+msgstr "Spice 향상된 기능"
 
 #: pve-manager/www/manager6/qemu/USBEdit.js:78
 msgid "Spice Port"
-msgstr "Spice Port"
+msgstr "Spice 포트"
 
 #: pve-manager/www/manager6/dc/Cluster.js:209
 #: pve-manager/www/manager6/dc/Health.js:33
