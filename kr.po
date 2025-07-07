@@ -8680,12 +8680,12 @@ msgstr "스토리지 '{1}'의 '{0}'에 대한 백업 정리"
 
 #: proxmox-backup/www/Utils.js:422 proxmox-backup/www/window/PruneJobEdit.js:12
 msgid "Prune Job"
-msgstr "정리 작업"
+msgstr "작업 정리"
 
 #: proxmox-backup/www/config/PruneView.js:32
 #: proxmox-backup/www/window/NotifyOptions.js:126
 msgid "Prune Jobs"
-msgstr "정리 작업"
+msgstr "작업 정리"
 
 #: pmg-gui/js/PBSRemoteEdit.js:124
 #: proxmox-backup/www/window/DataStoreEdit.js:150
