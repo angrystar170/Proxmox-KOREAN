@@ -4611,7 +4611,7 @@ msgstr "가비지 컬렉션"
 
 #: proxmox-backup/www/config/GCView.js:21
 msgid "Garbage Collect Jobs"
-msgstr "가비지 컬렉션 작업"
+msgstr "작업 가비지 컬렉션"
 
 #: proxmox-backup/www/window/GCJobEdit.js:10
 msgid "Garbage Collect Schedule"
