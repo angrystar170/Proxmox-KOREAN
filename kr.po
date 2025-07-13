@@ -4611,7 +4611,7 @@ msgstr "가비지 컬렉션"
 
 #: proxmox-backup/www/config/GCView.js:21
 msgid "Garbage Collect Jobs"
-msgstr "작업 가비지 컬렉션"
+msgstr "가비지 컬렉션 작업"
 
 #: proxmox-backup/www/window/GCJobEdit.js:10
 msgid "Garbage Collect Schedule"
@@ -8664,7 +8664,7 @@ msgstr "정리"
 
 #: proxmox-backup/www/config/PruneAndGC.js:4
 msgid "Prune & GC Jobs"
-msgstr "작업 정리 및 GC"
+msgstr "정리 및 GC 작업"
 
 #: proxmox-backup/www/datastore/Content.js:1009
 msgid "Prune '{0}'"
@@ -8685,7 +8685,7 @@ msgstr "작업 정리"
 #: proxmox-backup/www/config/PruneView.js:32
 #: proxmox-backup/www/window/NotifyOptions.js:126
 msgid "Prune Jobs"
-msgstr "작업 정리"
+msgstr "정리 작업"
 
 #: pmg-gui/js/PBSRemoteEdit.js:124
 #: proxmox-backup/www/window/DataStoreEdit.js:150
@@ -11206,7 +11206,7 @@ msgstr ""
 #: proxmox-backup/www/config/SyncView.js:29
 #: proxmox-backup/www/window/NotifyOptions.js:116
 msgid "Sync Jobs"
-msgstr "작업 동기화"
+msgstr "동기화 작업"
 
 #: proxmox-backup/www/Utils.js:850
 msgid "Sync Level"
