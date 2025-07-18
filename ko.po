@@ -8796,7 +8796,7 @@ msgstr "검역소 포트"
 #: pve-manager/www/manager6/node/ACME.js:127
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:150
 msgid "Query URL"
-msgstr "쿼리 URL"
+msgstr "URL 쿼리"
 
 #: pve-manager/www/manager6/dc/AuthEditOpenId.js:144
 msgid "Query userinfo endpoint"
