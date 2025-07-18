@@ -8800,7 +8800,7 @@ msgstr "URL 쿼리"
 
 #: pve-manager/www/manager6/dc/AuthEditOpenId.js:144
 msgid "Query userinfo endpoint"
-msgstr ""
+msgstr "사용자 정보 엔드포인트 쿼리"
 
 #: pmg-gui/js/QueueAdministration.js:5
 msgid "Queue Administration"
