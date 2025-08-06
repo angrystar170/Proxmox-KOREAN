@@ -2475,7 +2475,7 @@ msgstr "사용자 지정 점수"
 
 #: proxmox-widget-toolkit/src/Utils.js:69
 msgid "Czech"
-msgstr ""
+msgstr "체코어"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:983
 msgid "D.Port"
@@ -2882,7 +2882,7 @@ msgstr "다음에 전달"
 
 #: pve-manager/www/manager6/UIOptions.js:75
 msgid "Dense"
-msgstr "Dense"
+msgstr "밀도"
 
 #: proxmox-widget-toolkit/src/node/APT.js:42
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:36
@@ -3203,7 +3203,7 @@ msgstr "미디어 사용 안 함"
 
 #: proxmox-widget-toolkit/src/panel/NotificationConfigView.js:14
 msgid "Do you want to reset {0} to its default settings?"
-msgstr ""
+msgstr "{0}을(를) 기본 설정으로 재설정하시겠습니까?"
 
 #: proxmox-widget-toolkit/src/panel/NotificationConfigView.js:120
 msgid "Do you want to send a test notification to '{0}'?"
@@ -3328,7 +3328,7 @@ msgstr "드라이브"
 
 #: proxmox-backup/www/panel/PrunePanel.js:65
 msgid "Dry Run"
-msgstr "Dry Run"
+msgstr "모의 실행"
 
 #: pve-manager/www/manager6/qemu/AudioEdit.js:37
 msgid "Dummy Device"
@@ -7859,7 +7859,7 @@ msgstr "OpenID 리디렉션에 실패했습니다."
 
 #: pve-manager/www/manager6/ceph/Pool.js:337
 msgid "Optimal # of PGs"
-msgstr "Optimal # of PGs"
+msgstr "최적의 PG 수"
 
 #: pve-manager/www/manager6/dc/OptionView.js:426
 msgid "Option"
@@ -8483,6 +8483,8 @@ msgid ""
 "Prefer a fast and local storage, ideally with support for discard and thin-"
 "provisioning or sparse files."
 msgstr ""
+"빠르고 로컬한 스토리지를 선호하며, 이상적으로는 삭제 및 씬 프로비저닝이나 스파스 "
+"파일을 지원하는 것이 좋습니다."
 
 #: pve-manager/www/manager6/Utils.js:33
 msgid "Premium"
@@ -9749,6 +9751,8 @@ msgid ""
 "Run jobs as soon as possible if they couldn't start on schedule, for "
 "example, due to the node being offline."
 msgstr ""
+"예를 들어 노드가 오프라인 상태인 등의 이유로 일정에 따라 작업을 시작할 수 "
+"없는 경우 최대한 빨리 작업을 실행합니다."
 
 #: pve-manager/www/manager6/dc/Backup.js:677
 #: proxmox-backup/www/config/GCView.js:149
@@ -9778,7 +9782,7 @@ msgstr "S.M.A.R.T. 값"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:966
 msgid "S.Port"
-msgstr "Source Port (S.Port)"
+msgstr "원본 포트 (S.Port)"
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:194
 #: pve-manager/www/manager6/qemu/HardwareView.js:177
@@ -9812,7 +9816,7 @@ msgstr "SMTP HELO 점검"
 
 #: pmg-gui/js/MailProxyOptions.js:96
 msgid "SMTPD Banner"
-msgstr "SMTPD Banner"
+msgstr "SMTPD 배너"
 
 #: pve-manager/www/manager6/grid/FirewallOptions.js:72
 msgid "SMURFS filter"
