@@ -3022,7 +3022,7 @@ msgstr "사용자 지정 점수"
 
 #: proxmox-widget-toolkit/src/Utils.js:70 proxmox-yew-comp/src/lib.rs:279
 msgid "Czech"
-msgstr ""
+msgstr "체코어"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:993
 msgid "D.Port"
@@ -3469,7 +3469,7 @@ msgstr "스냅샷 삭제"
 #: proxmox-datacenter-manager/ui/src/widget/migrate_window.rs:426
 #, fuzzy
 msgid "Delete Source"
-msgstr "소스 삭제"
+msgstr "원본 삭제"
 
 #: proxmox-backup/www/window/NamespaceEdit.js:73
 msgid "Delete all Backup Groups"
@@ -3489,7 +3489,7 @@ msgstr "기존 암호화 키 삭제"
 
 #: pve-manager/www/manager6/qemu/HDMove.js:85
 msgid "Delete source"
-msgstr "소스 삭제"
+msgstr "원본 삭제"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:441
 msgid ""
@@ -3512,7 +3512,7 @@ msgstr "다음에 전달"
 
 #: pve-manager/www/manager6/UIOptions.js:75
 msgid "Dense"
-msgstr "Dense"
+msgstr "밀도"
 
 #: pve-yew-mobile-gui/src/pages/page_settings.rs:41
 #: proxmox-yew-comp/src/theme_dialog.rs:55
@@ -3898,7 +3898,7 @@ msgstr "미디어 사용 안 함"
 
 #: proxmox-widget-toolkit/src/panel/NotificationConfigView.js:14
 msgid "Do you want to reset {0} to its default settings?"
-msgstr ""
+msgstr "{0}을(를) 기본 설정으로 재설정하시겠습니까?"
 
 #: proxmox-widget-toolkit/src/panel/NotificationConfigView.js:120
 msgid "Do you want to send a test notification to '{0}'?"
@@ -4027,7 +4027,7 @@ msgstr "드라이브"
 
 #: proxmox-backup/www/panel/PrunePanel.js:65
 msgid "Dry Run"
-msgstr "Dry Run"
+msgstr "모의 실행"
 
 #: pve-manager/www/manager6/qemu/AudioEdit.js:38
 msgid "Dummy Device"
@@ -4554,7 +4554,7 @@ msgstr "영어"
 
 #: proxmox-backup/www/datastore/OptionView.js:286
 msgid "Ensure underlying storage honors access time updates"
-msgstr "기본 저장소가 액세스 시간 업데이트를 준수하는지 확인하십시오"
+msgstr "기본 저장소가 액세스 시간 업데이트를 준수하는지 확인하세요"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:141
 msgid "Enter URL to download"
@@ -4570,7 +4570,7 @@ msgstr "엔터프라이즈 리포지토리에 유효한 구독이 필요함"
 
 #: pve-manager/www/manager6/qemu/RNGEdit.js:47
 msgid "Entropy source"
-msgstr "엔트로피 소스"
+msgstr "엔트로피 원본"
 
 #: proxmox-widget-toolkit/src/window/AuthEditLDAP.js:428
 #: proxmox-widget-toolkit/src/window/SyncWindow.js:116
@@ -7411,7 +7411,7 @@ msgid ""
 "in the label written on the tape."
 msgstr ""
 "선택한 드라이브에 올바른 테이프가 삽입되어 있는지 확인하고 테이프에 적힌 라벨"
-"을 입력하십시오."
+"을 입력하세요."
 
 #: pve-manager/www/manager6/form/AgentFeatureSelector.js:49
 msgid "Make sure the QEMU Guest Agent is installed in the VM"
@@ -9346,7 +9346,7 @@ msgstr "OpenID 커넥트 서버"
 
 #: pve-manager/www/manager6/ceph/Pool.js:348
 msgid "Optimal # of PGs"
-msgstr "Optimal # of PGs"
+msgstr "최적의 PG 수"
 
 #: pve-manager/www/manager6/dc/OptionView.js:487
 msgid "Option"
@@ -9447,7 +9447,7 @@ msgid ""
 "and restart"
 msgstr ""
 "다른 클러스터 멤버는 이 서비스의 더 최신 버전을 사용 중입니다. 업그레이드하"
-"고 다시 시작하십시오."
+"고 다시 시작하세요."
 
 #: pmg-gui/js/Utils.js:114 pve-manager/www/manager6/ceph/StatusDetail.js:42
 msgid "Out"
@@ -10055,6 +10055,8 @@ msgid ""
 "Prefer a fast and local storage, ideally with support for discard and thin-"
 "provisioning or sparse files."
 msgstr ""
+"빠르고 로컬한 스토리지를 선호하며, 이상적으로는 삭제 및 씬 프로비저닝이나 "
+"스파스(sparse) 파일을 지원하는 것이 좋습니다."
 
 #: pve-manager/www/manager6/Utils.js:32
 msgid "Premium"
@@ -10130,7 +10132,7 @@ msgstr "권한"
 #: proxmox-datacenter-manager/ui/src/remotes/add_wizard.rs:99
 #, fuzzy
 msgid "Probe Remote"
-msgstr "리모트 소스"
+msgstr "리모트 원본"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:152
 #: pve-manager/www/manager6/ceph/OSDDetails.js:169
@@ -11124,7 +11126,7 @@ msgid ""
 "Remove snapshots from sync target datastore if they vanished from source "
 "datastore?"
 msgstr ""
-"소스 데이터 저장소에서 스냅샷이 사라진 경우 동기화 대상 데이터 저장소에서 스"
+"원본 데이터 저장소에서 스냅샷이 사라진 경우 동기화 대상 데이터 저장소에서 스"
 "냅샷을 제거하시겠습니까?"
 
 #: proxmox-yew-comp/src/auth_edit_ldap.rs:142
@@ -11553,6 +11555,8 @@ msgid ""
 "Run jobs as soon as possible if they couldn't start on schedule, for "
 "example, due to the node being offline."
 msgstr ""
+"예를 들어 노드가 오프라인 상태인 등의 이유로 일정에 따라 작업을 시작할 수 "
+"없는 경우 최대한 빨리 작업을 실행합니다."
 
 #: pve-manager/www/manager6/dc/Backup.js:622
 #: proxmox-backup/www/config/GCView.js:163
@@ -11663,7 +11667,7 @@ msgstr "SMTP HELO 점검"
 
 #: pmg-gui/js/MailProxyOptions.js:97
 msgid "SMTPD Banner"
-msgstr "SMTPD Banner"
+msgstr "SMTPD 배너"
 
 #: pve-manager/www/manager6/grid/FirewallOptions.js:73
 msgid "SMURFS filter"
@@ -12593,26 +12597,26 @@ msgstr "키 정렬"
 #: pve-manager/www/manager6/window/Restore.js:189
 #: proxmox-datacenter-manager/ui/src/widget/pve_migrate_mapping.rs:362
 msgid "Source"
-msgstr "소스"
+msgstr "원본"
 
 #: proxmox-backup/www/tape/window/TapeRestore.js:677
 #: proxmox-backup/www/tape/window/TapeRestore.js:859
 #: proxmox-backup/www/window/SyncJobEdit.js:52
 msgid "Source Datastore"
-msgstr "소스 데이터스토어"
+msgstr "원본 데이터스토어"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:53
 msgid "Source Namespace"
-msgstr "소스 네임스페이스"
+msgstr "원본 네임스페이스"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:51
 #: proxmox-datacenter-manager/ui/src/widget/migrate_window.rs:351
 msgid "Source Remote"
-msgstr "리모트 소스"
+msgstr "리모트 원본"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:257
 msgid "Source Slot"
-msgstr "슬롯 소스"
+msgstr "슬롯 원본"
 
 #: pve-manager/www/manager6/window/GuestImport.js:600
 msgid "Source Storage"
@@ -14639,7 +14643,7 @@ msgid ""
 "Uploads are stored temporarily in '/var/tmp/', make sure there is enough "
 "free space."
 msgstr ""
-"업로드는 '/var/tmp/'에 임시로 저장되므로 여유 공간이 충분한지 확인하십시오."
+"업로드는 '/var/tmp/'에 임시로 저장되므로 여유 공간이 충분한지 확인하세요."
 
 #: pve-manager/www/manager6/dc/OptionView.js:399
 msgid "Upper"
@@ -15451,6 +15455,8 @@ msgid ""
 "Virtual guest seems to be running on source host. Import might fail or have "
 "inconsistent state!"
 msgstr ""
+"가상 게스트가 원본 호스트에서 실행 중인 것 같습니다. 가져오기가 실패하거나 상태가 "
+"일관되지 않을 수 있습니다!"
 
 #: pmg-gui/js/ContactStatistics.js:175 pmg-gui/js/DomainStatistics.js:101
 #: pmg-gui/js/DomainStatistics.js:144 pmg-gui/js/ReceiverStatistics.js:175
