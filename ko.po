@@ -23,7 +23,6 @@ msgid "# of Worker Threads"
 msgstr "작업자 스레드 수"
 
 #: pve-yew-mobile-gui/src/pages/page_node_status/dashboard_panel.rs:84
-#, fuzzy
 msgid "% of one threads"
 msgid_plural "% of {n} threads"
 msgstr[0] "{n} 스레드의 비율"
@@ -60,14 +59,12 @@ msgstr "/어떤/경로를/입력"
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/hardware_panel.rs:49
 #: pve-yew-mobile-gui/src/pages/page_node_status/dashboard_panel.rs:76
-#, fuzzy
 msgid "1 Core"
 msgid_plural "{n} Cores"
 msgstr[0] "{n} 코어"
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/hardware_panel.rs:50
 #: pve-yew-mobile-gui/src/pages/page_node_status/dashboard_panel.rs:77
-#, fuzzy
 msgid "1 Socket"
 msgid_plural "{n} Sockets"
 msgstr[0] "{n} 소켓"
@@ -85,7 +82,6 @@ msgid "5 Minutes"
 msgstr "5 분"
 
 #: proxmox-datacenter-manager/ui/src/remotes/wizard_page_connect.rs:193
-#, fuzzy
 msgid "<IP/Hostname>:Port"
 msgstr "<IP/호스트명>:포트"
 
@@ -144,13 +140,11 @@ msgstr "ACME 디렉토리"
 
 #: proxmox-yew-comp/src/acme/acme_domains.rs:353
 #: proxmox-yew-comp/src/acme/acme_domains.rs:374
-#, fuzzy
 msgid "ACME Domain"
 msgstr "ACME 도메인"
 
 #. TRANSLATORS: ACME Stands for Automatic Certificate Management Environment
 #: proxmox-datacenter-manager/ui/src/certificates.rs:34
-#, fuzzy
 msgid "ACME Domains"
 msgstr "ACME 도메인"
 
@@ -180,7 +174,6 @@ msgid "AMD SEV Type"
 msgstr "AMD SEV 유형"
 
 #: proxmox-yew-comp/src/acme/acme_plugins.rs:581
-#, fuzzy
 msgid "API"
 msgstr "API"
 
@@ -212,7 +205,6 @@ msgid "API Token"
 msgstr "API 토큰"
 
 #: proxmox-datacenter-manager/ui/src/remotes/wizard_page_info.rs:280
-#, fuzzy
 msgid "API Token Name"
 msgstr "API 토큰 이름"
 
@@ -231,7 +223,6 @@ msgid "API Tokens"
 msgstr "API 토큰"
 
 #: proxmox-yew-comp/src/apt_repositories.rs:542
-#, fuzzy
 msgid "API call failed"
 msgstr "API 호출이 실패함"
 
@@ -274,9 +265,8 @@ msgid "Access Control"
 msgstr "액세스 제어"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:91
-#, fuzzy
 msgid "Access Key"
-msgstr "비밀 키"
+msgstr "액세스 키"
 
 #: pve-manager/www/manager6/lxc/DeviceEdit.js:89
 msgid "Access Mode in CT"
@@ -468,9 +458,8 @@ msgid "Add EFI Disk"
 msgstr "EFI 디스크 추가"
 
 #: pve-manager/www/manager6/sdn/FabricsView.js:187
-#, fuzzy
 msgid "Add Fabric"
-msgstr "다른 이름으로 추가"
+msgstr 패브릭 추가"
 
 #: proxmox-widget-toolkit/src/panel/WebhookEditPanel.js:71
 msgid "Add Header"
@@ -483,12 +472,10 @@ msgstr "네임스페이스 추가"
 #: pve-manager/www/manager6/sdn/FabricsView.js:107
 #: pve-manager/www/manager6/sdn/FabricsView.js:168
 #: pve-manager/www/manager6/sdn/fabrics/NodeEdit.js:188
-#, fuzzy
 msgid "Add Node"
 msgstr "노드 추가"
 
 #: proxmox-datacenter-manager/ui/src/remotes/config.rs:176
-#, fuzzy
 msgid "Add Proxmox VE"
 msgstr "Proxmox VE 추가"
 
@@ -636,9 +623,8 @@ msgid "Advanced"
 msgstr "고급"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:674
-#, fuzzy
 msgid "Advanced JSON Configuration"
-msgstr "구성 표시"
+msgstr "고급 JSON 구성"
 
 #: pve-manager/www/manager6/sdn/zones/EvpnEdit.js:73
 msgid "Advertise Subnets"
@@ -646,14 +632,12 @@ msgstr "서브넷 광고(Advertise)"
 
 #: pve-manager/www/manager6/ha/rules/ResourceAffinityRuleEdit.js:13
 #: pve-manager/www/manager6/ha/rules/ResourceAffinityRules.js:15
-#, fuzzy
 msgid "Affinity"
-msgstr "CPU 할당"
+msgstr "유연성"
 
 #: pve-manager/www/manager6/dc/Config.js:173
-#, fuzzy
 msgid "Affinity Rules"
-msgstr "CPU 할당"
+msgstr "유연성 규칙"
 
 #: proxmox-backup/www/tape/DriveStatus.js:402
 msgid "Alert Flags"
@@ -762,9 +746,8 @@ msgid "Allocated"
 msgstr "할당됨"
 
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:250
-#, fuzzy
 msgid "Allocation"
-msgstr "사전 할당"
+msgstr "할당"
 
 #: proxmox-backup/www/tape/PoolConfig.js:121
 #: proxmox-backup/www/tape/form/PoolSelector.js:30
@@ -813,13 +796,11 @@ msgid "Alphabetical"
 msgstr "알파벳순"
 
 #: proxmox-yew-comp/src/apt_repositories.rs:511
-#, fuzzy
 msgid "Already configured"
 msgstr "이미 구성되었음"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:373
 #: proxmox-widget-toolkit/src/node/NetworkView.js:287
-#, fuzzy
 msgid "Alternative Names"
 msgstr "대체 이름"
 
@@ -832,7 +813,6 @@ msgid "Always"
 msgstr "항상"
 
 #: pve-manager/www/manager6/dc/BackupJobDetail.js:221
-#, fuzzy
 msgid "Always send email"
 msgstr "항상 이메일 전송"
 
@@ -993,15 +973,13 @@ msgid "Are you sure you want to remove the certificate used for {0}"
 msgstr "{0}에 사용된 인증서를 제거하시겠습니까?"
 
 #: pve-manager/www/manager6/sdn/FabricsView.js:438
-#, fuzzy
 msgid "Are you sure you want to remove the fabric \"{0}\"?"
-msgstr "{0} 항목을 제거합니다."
+msgstr "패브릭 \"{0}\"을(를) 삭제하시겠습니까?"
 
 #: pve-manager/www/manager6/sdn/FabricsView.js:448
-#, fuzzy
 msgid ""
 "Are you sure you want to remove the node \"{0}\" from the fabric \"{1}\"?"
-msgstr "{0}에 대한 일정을 제거하시겠습니까?"
+msgstr "노드 \"{0}\"을 패브릭 \"{1}\"에서 삭제하시겠습니까?"
 
 #: pmg-gui/js/PBSSnapshotView.js:152
 msgid "Are you sure you want to remove the schedule for {0}"
@@ -1014,24 +992,21 @@ msgid "Are you sure you want to remove the subscription key?"
 msgstr "구독 키를 제거하시겠습니까?"
 
 #: proxmox-yew-comp/src/tfa/tfa_confirm_remove.rs:44
-#, fuzzy
 msgid "Are you sure you want to remove this TFA entry?"
-msgstr "이 항목을 삭제하시겠습니까?"
+msgstr "이 TFA 항목을 삭제하시겠습니까?"
 
 #: pve-manager/www/manager6/dc/ACLView.js:163
 #: pve-manager/www/manager6/sdn/VnetACLView.js:187
 msgid "Are you sure you want to remove this entry"
-msgstr "이 항목을 삭제하시겠습니까?"
+msgstr "이 항목을 삭제하시겠습니까"
 
 #: proxmox-yew-comp/src/confirm_button.rs:12
-#, fuzzy
 msgid "Are you sure you want to remove this entry?"
 msgstr "이 항목을 삭제하시겠습니까?"
 
 #: proxmox-datacenter-manager/ui/src/remotes/config.rs:206
-#, fuzzy
 msgid "Are you sure you want to remove this remote?"
-msgstr "이 항목을 삭제하시겠습니까?"
+msgstr "이 리모트를 제거하시겠습니까?"
 
 #: proxmox-widget-toolkit/src/window/TfaEdit.js:143
 msgid "Are you sure you want to remove this {0} entry?"
@@ -9894,7 +9869,7 @@ msgstr "오브젝트를 선택하세요."
 #: pve-manager/www/manager6/window/LoginWindow.js:165
 #, fuzzy
 msgid "Please try again"
-msgstr "로그인에 실패했습니다. 다시 시도해 주십시오"
+msgstr "다시 시도해 주세요"
 
 #: pmg-gui/js/ClusterAdministration.js:96
 msgid ""
@@ -10130,9 +10105,8 @@ msgid "Privileges"
 msgstr "권한"
 
 #: proxmox-datacenter-manager/ui/src/remotes/add_wizard.rs:99
-#, fuzzy
 msgid "Probe Remote"
-msgstr "리모트 원본"
+msgstr "리모트 프로브"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:152
 #: pve-manager/www/manager6/ceph/OSDDetails.js:169
@@ -10144,7 +10118,6 @@ msgid "Processing..."
 msgstr "처리 중..."
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/hardware_panel.rs:77
-#, fuzzy
 msgid "Processor"
 msgstr "프로세서"
 
@@ -10730,13 +10703,11 @@ msgid "Receiver"
 msgstr "수신자"
 
 #: pve-yew-mobile-gui/src/widgets/guest_backup_panel.rs:217
-#, fuzzy
 msgid "Recent backups"
-msgstr "모든 백업 보관"
+msgstr "최근 백업"
 
 #: proxmox-backup/www/tape/window/TapeBackupJob.js:275
 #: proxmox-backup/www/window/NotifyOptions.js:107
-#, fuzzy
 msgid "Recipient"
 msgstr "수신자"
 
@@ -10746,7 +10717,6 @@ msgstr "수신자"
 
 #: pve-manager/www/manager6/dc/BackupJobDetail.js:230
 #: pve-manager/www/manager6/panel/BackupNotificationOptions.js:79
-#, fuzzy
 msgid "Recipients"
 msgstr "수신자"
 
@@ -10765,7 +10735,6 @@ msgid "Recovery Keys"
 msgstr "복구 키"
 
 #: proxmox-yew-comp/src/tfa/tfa_add_recovery.rs:119
-#, fuzzy
 msgid "Recovery Keys for user '{}'"
 msgstr "복구 키"
 
@@ -10803,8 +10772,8 @@ msgid ""
 "Regenerate the secret of the API token '{0}'? All users of the previous "
 "token secret will lose access!"
 msgstr ""
-"API 토큰 '{0}'의 비밀을 다시 생성하시겠습니까? 현재 사용 중인 모든 사이트에"
-"서 접근 권한이 사라집니다!"
+"API 토큰 '{0}'의 비밀을 다시 생성하시겠습니까? 이전 토큰 비밀을 사용하는 "
+"모든 사용자는 접근 권한을 잃게 됩니다!"
 
 #: proxmox-widget-toolkit/src/window/NotificationMatcherEdit.js:1304
 #: proxmox-widget-toolkit/src/window/NotificationMatcherEdit.js:1374
@@ -10816,7 +10785,7 @@ msgstr "정규표현식"
 #: proxmox-backup/www/config/S3ClientView.js:128
 #: proxmox-backup/www/window/S3ClientEdit.js:82
 msgid "Region"
-msgstr ""
+msgstr "지역"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:12
 #: pve-manager/www/manager6/Utils.js:2067
@@ -10928,9 +10897,8 @@ msgid "Remote"
 msgstr "리모트"
 
 #: proxmox-datacenter-manager/ui/src/pve/mod.rs:172
-#, fuzzy
 msgid "Remote '{0}'"
-msgstr "'{0}' 제거"
+msgstr "'{0}' 리모트"
 
 #: proxmox-backup/www/config/RemoteView.js:129
 #: proxmox-backup/www/config/SyncView.js:340
@@ -10944,9 +10912,8 @@ msgid "Remote ID"
 msgstr "리모트 ID"
 
 #: proxmox-datacenter-manager/ui/src/widget/migrate_window.rs:418
-#, fuzzy
 msgid "Remote Migration Settings"
-msgstr "마이그레이션 설정"
+msgstr "리모트 마이그레이션 설정"
 
 #: proxmox-backup/www/config/SyncView.js:353
 msgid "Remote Namespace"
@@ -12010,9 +11977,8 @@ msgid "Send daily admin reports"
 msgstr "매일 관리자 보고서 전송"
 
 #: pve-manager/www/manager6/dc/BackupJobDetail.js:223
-#, fuzzy
 msgid "Send email on failure"
-msgstr "다음 주소로 이메일 보내기"
+msgstr "실패 시 이메일 보내기"
 
 #: pve-manager/www/manager6/window/Backup.js:34
 msgid "Send email to"
@@ -15128,16 +15094,14 @@ msgstr "VM"
 
 #: proxmox-datacenter-manager/ui/src/pve/lxc.rs:251
 #: proxmox-datacenter-manager/ui/src/pve/qemu.rs:251
-#, fuzzy
 msgid "VM '{0}'"
-msgstr "'{0}' 검증"
+msgstr "VM '{0}'"
 
 #: pve-manager/www/manager6/storage/Browser.js:80
 msgid "VM Disks"
 msgstr "VM 디스크"
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/config_panel.rs:185
-#, fuzzy
 msgid "VM State Storage"
 msgstr "VM 상태 스토리지"
 
@@ -15208,9 +15172,8 @@ msgid "Value"
 msgstr "값"
 
 #: proxmox-yew-comp/src/safe_confirm_dialog.rs:84
-#, fuzzy
 msgid "Value does not match!"
-msgstr "하나 이상이 일치하지 않음"
+msgstr "값이 일치하지 않습니다!"
 
 #: pve-manager/www/manager6/ceph/OSDDetails.js:133
 msgid "Various information about the OSD"
@@ -15325,9 +15288,8 @@ msgid "Verify Receivers"
 msgstr "수신자 검증"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:640
-#, fuzzy
 msgid "Verify SSL"
-msgstr "검증"
+msgstr "SSL 검증"
 
 #: pve-manager/www/manager6/grid/BackupView.js:379
 #: pve-manager/www/manager6/storage/BackupView.js:216
@@ -15644,7 +15606,7 @@ msgstr "Webauthn"
 #: proxmox-yew-comp/src/tfa/tfa_add_webauthn.rs:109
 #, fuzzy
 msgid "Webauthn Device"
-msgstr "Webauthn 디바이스 등록"
+msgstr "Webauthn 디바이스"
 
 #: pmg-gui/js/Settings.js:133 pve-manager/www/manager6/window/Settings.js:166
 #: proxmox-backup/www/window/Settings.js:133
@@ -16130,12 +16092,12 @@ msgstr "dns"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:48
 msgid "e.g. {{bucket}}.s3.{{region}}.amazonaws.com"
-msgstr ""
+msgstr "예: {{bucket}}.s3.{{region}}.amazonaws.com"
 
 #: proxmox-yew-comp/src/auth_edit_openid.rs:128
 #, fuzzy
 msgid "email profile"
-msgstr "다음 주소로 이메일 보내기"
+msgstr "이메일 프로파일"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:49
 #: proxmox-yew-comp/src/apt_repositories.rs:652
@@ -16144,7 +16106,7 @@ msgstr "활성화 됨"
 
 #: proxmox-yew-comp/src/tfa/tfa_add_webauthn.rs:147
 msgid "failed to parse webauthn registration challenge"
-msgstr ""
+msgstr "웹 인증 등록 문제 구문 분석에 실패했습니다"
 
 #: pve-manager/www/manager6/form/BackupCompressionSelector.js:6
 msgid "fast"
@@ -16163,9 +16125,8 @@ msgid "good"
 msgstr "좋음"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/checkbox.rs:172
-#, fuzzy
 msgid "got invalid value."
-msgstr "유효하지 않은 값"
+msgstr "유효하지 않은 값을 얻었음"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:57
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:124
@@ -16204,13 +16165,12 @@ msgstr "약 {0}"
 #. do not allow "inf", "nan", ...
 #: proxmox-yew-widget-toolkit/src/dom/number_format.rs:112
 #: proxmox-yew-widget-toolkit/src/dom/number_format.rs:117
-#, fuzzy
 msgid "invalid float literal"
-msgstr "파일 크기가 잘못되었습니다."
+msgstr "잘못된 float 리터럴"
 
 #: proxmox-yew-widget-toolkit/src/dom/number_format.rs:101
 msgid "invalid float literal (wrong decimal separator)"
-msgstr ""
+msgstr "잘못된 float 리터럴 (잘못된 소수 구분 기호)"
 
 #: pve-manager/www/manager6/window/Prune.js:135
 #: proxmox-backup/www/datastore/Prune.js:167
@@ -16342,14 +16302,14 @@ msgstr "설치되지 않음"
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:165
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:193
 msgid "number too large (n > {})"
-msgstr ""
+msgstr "수가 너무 큽니다 (n > {})"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:95
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:120
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:171
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:196
 msgid "number too small (n < {})"
-msgstr ""
+msgstr "수가 너무 작습니다 (n < {})"
 
 #: pve-manager/www/manager6/dc/Summary.js:210
 msgid "of {0} CPU(s)"
@@ -16364,20 +16324,18 @@ msgid "optional"
 msgstr "선택 사항"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:588
-#, fuzzy
 msgid "otel-collector.example.com"
-msgstr "mail.example.com"
+msgstr "otel-collector.example.com"
 
 #: pmg-yew-quarantine-gui/src/page_not_found.rs:9
 msgid "page not found"
-msgstr ""
+msgstr "페이지를 찾을 수 없음"
 
 #: pve-manager/www/manager6/form/NetworkCardSelector.js:7
 msgid "paravirtualized"
 msgstr "반가상화"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/guest_panel.rs:82
-#, fuzzy
 msgid "paused"
 msgstr "일시 중지됨"
 
@@ -16393,7 +16351,7 @@ msgstr "보류"
 
 #: pmg-gui/js/AuthEditOIDC.js:128
 msgid "preferred_username"
-msgstr ""
+msgstr "preferred_username"
 
 #: pve-manager/www/manager6/lxc/FeaturesEdit.js:17
 msgid "privileged only"
@@ -16435,25 +16393,23 @@ msgstr "멈춤"
 #: pmg-gui/js/AuthEditOIDC.js:127
 #, fuzzy
 msgid "sub (subject)"
-msgstr "주체"
+msgstr "하위 (주체)"
 
 #: proxmox-backup/www/Utils.js:448
 msgid "sync jobs handler triggered by mount"
-msgstr ""
+msgstr "마운트에 의해 트리거되는 동기화 작업 핸들러"
 
 #: pve-manager/www/manager6/grid/Replication.js:373
 msgid "syncing"
 msgstr "동기화"
 
 #: proxmox-yew-comp/src/bandwidth_selector.rs:98
-#, fuzzy
 msgid "unable to parse number"
-msgstr "네트워크 구성을 파싱할 수 없음"
+msgstr "숫자를 파싱할 수 없음"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/field.rs:341
-#, fuzzy
 msgid "unable to parse number: {}"
-msgstr "네트워크 구성을 파싱할 수 없음"
+msgstr "숫자를 파싱할 수 없음: {}"
 
 #: proxmox-yew-comp/src/bandwidth_selector.rs:104
 #: proxmox-yew-comp/src/bandwidth_selector.rs:113
@@ -16467,7 +16423,6 @@ msgstr "변경되지 않음"
 
 #: pve-yew-mobile-gui/src/pages/page_task_status.rs:126
 #: proxmox-yew-comp/src/subscription_panel.rs:181
-#, fuzzy
 msgid "unknown"
 msgstr "알 수 없음"
 
@@ -16512,9 +16467,8 @@ msgstr "호스트 설정 사용"
 
 #: pve-manager/www/manager6/sdn/controllers/EvpnEdit.js:37
 #: pve-manager/www/manager6/sdn/zones/VxlanEdit.js:58
-#, fuzzy
 msgid "used as underlay network"
-msgstr "공용 네트워크와 동일"
+msgstr "언더레이 네트워크로 사용됨"
 
 #: proxmox-widget-toolkit/src/panel/SmtpEditPanel.js:144
 msgid "user@example.com"
@@ -16527,19 +16481,19 @@ msgstr "vIOMMU"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:450
 msgid "value must be greater than or equal to '{0}'"
-msgstr ""
+msgstr "값은 '{0}'보다 크거나 같아야 합니다."
 
 #: proxmox-yew-widget-toolkit/src/widget/form/field.rs:346
 msgid "value must be greater than or equal to '{}'"
-msgstr ""
+msgstr "값은 '{0}'보다 크거나 같아야 합니다."
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:458
 msgid "value must be less than or equal to '{0}'"
-msgstr ""
+msgstr "값은 '{0}'보다 크거나 작아야 합니다."
 
 #: proxmox-yew-widget-toolkit/src/widget/form/field.rs:354
 msgid "value must be less than or equal to '{}'"
-msgstr ""
+msgstr "값은 '{}'보다 크거나 작아야 합니다."
 
 #: proxmox-widget-toolkit/src/window/TfaEdit.js:80
 msgid "verify current password"
@@ -16576,9 +16530,8 @@ msgid ""
 msgstr ""
 
 #: proxmox-datacenter-manager/ui/src/pve/node.rs:275
-#, fuzzy
 msgid "{0} ({1} sockets)"
-msgstr "{0} ({1})"
+msgstr "{0} ({1} 소켓)"
 
 #: proxmox-widget-toolkit/src/window/AuthEditLDAP.js:376
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:314
@@ -16639,12 +16592,11 @@ msgstr "{0} 개월"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:93
 msgid "{0} nodes have an unknown status"
-msgstr ""
+msgstr "노드의 상태를 알 수 없음"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:101
-#, fuzzy
 msgid "{0} nodes online"
-msgstr "노드가 오프라인 상태임"
+msgstr "노드 {0}개가 온라인 상태임"
 
 #: pve-manager/www/manager6/Utils.js:1817
 msgid "{0} not installed."
@@ -16652,7 +16604,7 @@ msgstr "{0}이(가) 설치되지 않았습니다."
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:98
 msgid "{0} of an unknown number of nodes online"
-msgstr ""
+msgstr "알 수 없는 수의 노드 {0}개가 온라인 상태임"
 
 #: proxmox-widget-toolkit/src/Utils.js:1135
 #: pve-manager/www/manager6/ceph/Status.js:362
@@ -16665,12 +16617,11 @@ msgstr "{1} 중 {0}"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:89
 msgid "{0} of {1} nodes are offline"
-msgstr ""
+msgstr "{1}개 중 {0}개의 노드가 오프라인 상태임"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/top_entities.rs:242
-#, fuzzy
 msgid "{0} on Remote '{1}'"
-msgstr "노드 {1}의 영역 {0}"
+msgstr "리모트 {1}의 {0}"
 
 #: pmg-gui/js/Utils.js:866
 msgid "{0} on behalf of {1}"
@@ -16678,12 +16629,12 @@ msgstr "{1}의 대리로 {0}"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/remote_panel.rs:74
 msgid "{0} remotes failed to reach."
-msgstr ""
+msgstr "{0} 리모트에 접근하지 못했습니다."
 
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:256
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:267
 msgid "{0} running / {1} physical ({2} total configured)"
-msgstr ""
+msgstr "{0} 실행 중 / {1} 물리 (총 {2}개가 구성됨)"
 
 #: pmg-gui/js/GeneralMailStatistics.js:120
 msgid "{0} seconds"
@@ -16719,27 +16670,24 @@ msgstr "{0} 년"
 #: proxmox-datacenter-manager/ui/src/pve/qemu.rs:345
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:219
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:233
-#, fuzzy
 msgid "{0}% ({1} of {2})"
-msgstr "{0}% / {1}"
+msgstr "{0}% ({2} 중 {1})"
 
 #: proxmox-widget-toolkit/src/Utils.js:1122
-#, fuzzy, javascript-format
+#, javascript-format
 msgid "{0}% of {1}"
-msgstr "{0}% / {1}"
+msgstr "{1} 중 {0}%"
 
 #: proxmox-datacenter-manager/ui/src/pve/lxc.rs:322
 #: proxmox-datacenter-manager/ui/src/pve/node.rs:232
 #: proxmox-datacenter-manager/ui/src/pve/qemu.rs:332
-#, fuzzy
 msgid "{0}% of {1} CPU(s)"
-msgstr "/ {0}개의 CPU"
+msgstr "{1}의 CPU 중 {0}%"
 
 #: proxmox-datacenter-manager/ui/src/pve/lxc.rs:303
 #: proxmox-datacenter-manager/ui/src/pve/qemu.rs:313
-#, fuzzy
 msgid "{0}, Group: {1}"
-msgstr "{1} 중 {0}"
+msgstr "{0}, 그룹: {1}"
 
 #~ msgid "Add {0}"
 #~ msgstr "추가: {0}"
@@ -16750,9 +16698,8 @@ msgstr "{1} 중 {0}"
 #~ msgid "Auto"
 #~ msgstr "자동"
 
-#, fuzzy
 #~ msgid "Default)"
-#~ msgstr "기본"
+#~ msgstr "기본)"
 
 #~ msgid "Extra ID"
 #~ msgstr "추가 ID"
@@ -16781,9 +16728,8 @@ msgstr "{1} 중 {0}"
 #~ msgid "On device path"
 #~ msgstr "디바이스 경로에서"
 
-#, fuzzy
 #~ msgid "Proxmox Datacenter Manager Login"
-#~ msgstr "Proxmox 백업 서버 로그인"
+#~ msgstr "Proxmox 데이터센터 관리자 로그인"
 
 #~ msgid "Restart pmg-smtp-filter"
 #~ msgstr "pmg-smtp-filter 재시작"
@@ -16828,27 +16774,24 @@ msgstr "{1} 중 {0}"
 #~ msgid "Writeback cache"
 #~ msgstr "라이트백(Writeback) 캐시"
 
-#, fuzzy
 #~ msgid ""
 #~ "You do not have a valid subscription for this server. Please visit <a "
 #~ "target=\"_blank\" href=\"{}\">www.proxmox.com</a> to get\n"
 #~ "a list of available options. "
 #~ msgstr ""
-#~ "이 서버에 대한 유효한 구독이 없습니다. 사용 가능한 옵션 목록을 보려면 {0}"
-#~ "을(를) 방문하세요."
+"이 서버에 대한 유효한 구독이 없습니다. <a target=\"_blank\" href=\"{}\">www."
+"proxmox.com</a>을 방문하여 사용 가능한 옵션 목록을 확인하세요."
 
-#, fuzzy
 #~ msgid "one"
 #~ msgid_plural "plural"
-#~ msgstr[0] "완료"
-#~ msgstr[1] "완료"
+#~ msgstr[0] "단일"
+#~ msgstr[1] "복수"
 
-#, fuzzy
 #~ msgctxt "context"
 #~ msgid "one"
 #~ msgid_plural "plural"
-#~ msgstr[0] "완료"
-#~ msgstr[1] "완료"
+#~ msgstr[0] "단일"
+#~ msgstr[1] "복수"
 
 #~ msgid "reload"
 #~ msgstr "다시 로드"
@@ -16868,15 +16811,12 @@ msgstr "{1} 중 {0}"
 #~ msgid "{0} ID"
 #~ msgstr "{0} ID"
 
-#, fuzzy
 #~ msgctxt "context"
 #~ msgid "{0} bar"
-#~ msgstr "{0} 년"
+#~ msgstr "{0} 막대"
 
-#, fuzzy
 #~ msgid "{0} {1}"
-#~ msgstr "{0} ({1})"
+#~ msgstr "{0} {1}"
 
-#, fuzzy
 #~ msgid "{1} {0}"
-#~ msgstr "ID {0}"
+#~ msgstr "{1} {0}"
