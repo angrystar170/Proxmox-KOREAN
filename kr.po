@@ -15532,7 +15532,6 @@ msgstr "Wake-on-LAN"
 #: pve-manager/www/manager6/ceph/StatusDetail.js:195
 #: proxmox-backup/www/dashboard/TaskSummary.js:168
 #: proxmox-yew-comp/src/apt_repositories.rs:876
-#, fuzzy
 msgid "Warning"
 msgid_plural "Warnings"
 msgstr[0] "경고"
@@ -15665,11 +15664,11 @@ msgstr "Who Objects"
 
 #: pmg-gui/js/StatTimeSelector.js:158
 msgid "Whole month"
-msgstr "Whole month"
+msgstr "1달 내내"
 
 #: pmg-gui/js/StatTimeSelector.js:138
 msgid "Whole year"
-msgstr "Whole year"
+msgstr "1년 내내"
 
 #: proxmox-widget-toolkit/src/panel/DiskList.js:425
 #: pve-manager/www/manager6/Utils.js:2134 proxmox-backup/www/Utils.js:468
@@ -15712,30 +15711,26 @@ msgstr ""
 
 #: pve-manager/www/manager6/node/Summary.js:227
 msgid "Without ZFS ARC"
-msgstr ""
+msgstr "ZFS ARC 없이"
 
 #: pve-manager/www/manager6/storage/Base.js:154
-#, fuzzy
 msgid ""
 "Without any keep option, the node's vzdump.conf or `keep-all` is used as "
 "fallback for backup jobs"
 msgstr ""
-"어떠한 유지 옵션이 없으면, 백업 작업의 대안으로 노드의 vzdump.conf 또는 "
-"`keep-all`을 사용합니다."
+"유지 옵션 없이 노드의 vzdump.conf 또는 `keep-all`이 백업 작업에 대한 대체 수"
+"단으로 사용됩니다"
 
 #: pve-manager/www/manager6/dc/Backup.js:366
-#, fuzzy
 msgid ""
 "Without any keep option, the storage's configuration or node's vzdump.conf "
 "is used as fallback"
 msgstr ""
-"어떠한 유지 옵션이 없으면, 백업 작업의 대안으로, 스토리지의 설정 또는 노드의 "
-"vzdump.conf를 사용합니다."
+"유지 옵션이 없으면 스토리지 구성이나 노드의 vzdump.conf가 대체 수단으로 사용됩니다"
 
 #: pve-yew-mobile-gui/src/pages/page_task_status.rs:133
-#, fuzzy
 msgid "Worker ID"
-msgstr "서버 ID"
+msgstr "작업자 ID"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:60
 msgid "Worst"
@@ -16066,14 +16061,12 @@ msgid "default"
 msgstr "기본"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:60
-#, fuzzy
 msgid "default (443)"
-msgstr "기본"
+msgstr "기본값 (443)"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:83
-#, fuzzy
 msgid "default (us-west-1)"
-msgstr "기본값 (항상)"
+msgstr "기본값 (us-west-1)"
 
 #: pve-manager/www/manager6/node/Directory.js:174
 #: proxmox-backup/www/DirectoryList.js:96
@@ -16095,7 +16088,6 @@ msgid "e.g. {{bucket}}.s3.{{region}}.amazonaws.com"
 msgstr "예: {{bucket}}.s3.{{region}}.amazonaws.com"
 
 #: proxmox-yew-comp/src/auth_edit_openid.rs:128
-#, fuzzy
 msgid "email profile"
 msgstr "이메일 프로파일"
 
@@ -16391,7 +16383,6 @@ msgid "stopped"
 msgstr "멈춤"
 
 #: pmg-gui/js/AuthEditOIDC.js:127
-#, fuzzy
 msgid "sub (subject)"
 msgstr "하위 (주체)"
 
@@ -16743,7 +16734,6 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "Send email"
 #~ msgstr "이메일 전송"
 
-#, fuzzy
 #~ msgid "Setrvice"
 #~ msgstr "서비스"
 
