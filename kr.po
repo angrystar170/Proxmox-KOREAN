@@ -2861,7 +2861,7 @@ msgstr "기존 암호화 키 삭제"
 
 #: pve-manager/www/manager6/qemu/HDMove.js:84
 msgid "Delete source"
-msgstr "소스 삭제"
+msgstr "원본 삭제"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:423
 msgid ""
@@ -3778,7 +3778,7 @@ msgstr "영어"
 
 #: proxmox-backup/www/datastore/OptionView.js:283
 msgid "Ensure underlying storage honors access time updates"
-msgstr "기본 저장소가 액세스 시간 업데이트를 준수하는지 확인하십시오"
+msgstr "기본 저장소가 액세스 시간 업데이트를 준수하는지 확인하세요"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:140
 msgid "Enter URL to download"
@@ -3794,7 +3794,7 @@ msgstr "엔터프라이즈 리포지토리에 유효한 구독이 필요함"
 
 #: pve-manager/www/manager6/qemu/RNGEdit.js:46
 msgid "Entropy source"
-msgstr "엔트로피 소스"
+msgstr "엔트로피 원본"
 
 #: proxmox-widget-toolkit/src/window/AuthEditLDAP.js:420
 #: proxmox-widget-toolkit/src/window/SyncWindow.js:116
@@ -6061,7 +6061,7 @@ msgstr "로그인(OpenID 리디렉션)"
 #: pve-manager/www/manager6/window/LoginWindow.js:159
 #: proxmox-backup/www/LoginView.js:104
 msgid "Login failed. Please try again"
-msgstr "로그인에 실패했습니다. 다시 시도해 주십시오"
+msgstr "로그인에 실패했습니다. 다시 시도해 주세요"
 
 #: pmg-gui/js/MainView.js:228 pmg-gui/js/QuarantineView.js:265
 #: pve-manager/www/manager6/Workspace.js:420 proxmox-backup/www/MainView.js:281
@@ -6187,7 +6187,7 @@ msgid ""
 "in the label written on the tape."
 msgstr ""
 "선택한 드라이브에 올바른 테이프가 삽입되어 있는지 확인하고 테이프에 적힌 라벨"
-"을 입력하십시오."
+"을 입력하세요."
 
 #: pve-manager/www/manager6/form/AgentFeatureSelector.js:47
 msgid "Make sure the QEMU Guest Agent is installed in the VM"
@@ -7946,7 +7946,7 @@ msgid ""
 "and restart"
 msgstr ""
 "다른 클러스터 멤버는 이 서비스의 더 최신 버전을 사용 중입니다. 업그레이드하"
-"고 다시 시작하십시오."
+"고 다시 시작하세요."
 
 #: pmg-gui/js/Utils.js:115 pve-manager/www/manager6/ceph/StatusDetail.js:41
 msgid "Out"
@@ -9385,7 +9385,7 @@ msgid ""
 "Remove snapshots from sync target datastore if they vanished from source "
 "datastore?"
 msgstr ""
-"소스 데이터 저장소에서 스냅샷이 사라진 경우 동기화 대상 데이터 저장소에서 스"
+"원본 데이터 저장소에서 스냅샷이 사라진 경우 동기화 대상 데이터 저장소에서 스"
 "냅샷을 제거하시겠습니까?"
 
 #: proxmox-widget-toolkit/src/window/AuthEditLDAP.js:428
@@ -10628,25 +10628,25 @@ msgstr "키 정렬"
 #: pve-manager/www/manager6/window/GuestImport.js:665
 #: pve-manager/www/manager6/window/Restore.js:186
 msgid "Source"
-msgstr "소스"
+msgstr "원본"
 
 #: proxmox-backup/www/tape/window/TapeRestore.js:672
 #: proxmox-backup/www/tape/window/TapeRestore.js:857
 #: proxmox-backup/www/window/SyncJobEdit.js:52
 msgid "Source Datastore"
-msgstr "소스 데이터스토어"
+msgstr "원본 데이터스토어"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:53
 msgid "Source Namespace"
-msgstr "소스 네임스페이스"
+msgstr "원본 네임스페이스"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:51
 msgid "Source Remote"
-msgstr "리모트 소스"
+msgstr "리모트 원본"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:244
 msgid "Source Slot"
-msgstr "슬롯 소스"
+msgstr "슬롯 원본"
 
 #: pve-manager/www/manager6/window/GuestImport.js:570
 msgid "Source Storage"
@@ -12370,7 +12370,7 @@ msgid ""
 "Uploads are stored temporarily in '/var/tmp/', make sure there is enough "
 "free space."
 msgstr ""
-"업로드는 '/var/tmp/'에 임시로 저장되므로 여유 공간이 충분한지 확인하십시오."
+"업로드는 '/var/tmp/'에 임시로 저장되므로 여유 공간이 충분한지 확인하세요."
 
 #: pve-manager/www/manager6/dc/OptionView.js:338
 msgid "Upper"
@@ -13055,6 +13055,8 @@ msgid ""
 "Virtual guest seems to be running on source host. Import might fail or have "
 "inconsistent state!"
 msgstr ""
+"가상 게스트가 원본 호스트에서 실행 중인 것 같습니다. 가져오기가 실패하거나 상태가 "
+"일관되지 않을 수 있습니다!"
 
 #: pmg-gui/js/ContactStatistics.js:165 pmg-gui/js/DomainStatistics.js:93
 #: pmg-gui/js/DomainStatistics.js:137 pmg-gui/js/ReceiverStatistics.js:173
