@@ -462,7 +462,7 @@ msgstr "EFI 디스크 추가"
 
 #: pve-manager/www/manager6/sdn/FabricsView.js:187
 msgid "Add Fabric"
-msgstr 패브릭 추가"
+msgstr "패브릭 추가"
 
 #: proxmox-widget-toolkit/src/panel/WebhookEditPanel.js:71
 msgid "Add Header"
