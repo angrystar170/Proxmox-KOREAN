@@ -42,7 +42,7 @@ msgstr "(없음)"
 
 #: proxmox-backup/www/config/SyncView.js:273
 msgid "(remote) store, remote, id, owner, direction"
-msgstr "(리모트) 저장소, 리모트, ID, 소유자, 방향(direction)"
+msgstr "(리모트) 저장소, 리모트, ID, 소유자, 위치"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:335
 msgid ".tar.zst"
@@ -3673,7 +3673,7 @@ msgstr "자릿수"
 #: pve-manager/www/manager6/grid/FirewallRules.js:266
 #: proxmox-backup/www/config/SyncView.js:310
 msgid "Direction"
-msgstr "방향(Direction)"
+msgstr "위치"
 
 #: proxmox-widget-toolkit/src/Schema.js:92
 #: proxmox-widget-toolkit/src/Utils.js:61
