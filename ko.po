@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: 2025-08-04 21:55+0200\n"
-"PO-Revision-Date: 2023-12-22 10:15 +9\n"
+"PO-Revision-Date: 2025-08-08 18:00+0900\n"
 "Last-Translator: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language-Team: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language: ko_KR\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
 
 #: proxmox-backup/www/tape/window/TapeBackup.js:129
 #: proxmox-backup/www/tape/window/TapeBackupJob.js:184
@@ -97,7 +98,7 @@ msgstr "현재 유효한 Yubico OTP 값"
 msgid ""
 "A newer version was installed but old version still running, please restart"
 msgstr ""
-"최신 버전이 설치되었지만, 이전 버전이 계속 실행 중입니다. 다시 시작하세요."
+"최신 버전이 설치되었지만, 이전 버전이 계속 실행 중입니다. 다시 시작하세요"
 
 #: proxmox-backup/www/window/DataStoreEdit.js:105
 msgid "A relative path"
@@ -274,7 +275,7 @@ msgstr "CT의 액세스 모드"
 
 #: pve-manager/www/manager6/lxc/DeviceEdit.js:96
 msgid "Access mode has to be an octal number"
-msgstr "액세스 모드는 8진수여야 합니다."
+msgstr "액세스 모드는 8진수여야 합니다"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:151
 #: pmg-gui/js/LDAPConfig.js:258 pmg-gui/js/LDAPUserEditor.js:42
@@ -965,7 +966,7 @@ msgstr "테이프 '{0}'을(를) 제거하시겠습니까?"
 
 #: proxmox-widget-toolkit/src/panel/Certificates.js:246
 msgid "Are you sure you want to remove the certificate"
-msgstr "인증서를 제거하시겠습니까?"
+msgstr "인증서를 제거하시겠습니까"
 
 #: proxmox-widget-toolkit/src/panel/Certificates.js:242
 #: proxmox-yew-comp/src/acme/certificate_list.rs:120
@@ -1014,11 +1015,11 @@ msgstr "{0} 항목을 제거하시겠습니까?"
 
 #: pmg-gui/js/UserBlackWhiteList.js:176
 msgid "Are you sure you want to remove {0} entries"
-msgstr "{0} 항목을 제거하시겠습니까?"
+msgstr "{0} 항목을 제거하시겠습니까"
 
 #: proxmox-widget-toolkit/src/panel/DiskList.js:432
 msgid "Are you sure you want to wipe {0}?"
-msgstr "{0} 항목을 지우시겠습니까? "
+msgstr "{0} 항목을 지우시겠습니까?"
 
 #: pve-manager/www/manager6/sdn/fabrics/ospf/FabricEdit.js:14
 msgid "Area"
@@ -1048,8 +1049,8 @@ msgid ""
 "At least one remote could not be queried and has an unknown subscription "
 "status."
 msgstr ""
-"최소 한 개의 리모컨을 쿼리할 수 없으며 해당 리모컨의 구독 상태를 알 수 없습"
-"니다."
+"최소 한 개의 리모컨을 쿼리할 수 없으며 해당 리모컨의 구독 상태를 알 수 없습니"
+"다."
 
 #: proxmox-datacenter-manager/ui/src/dashboard/subscription_info.rs:58
 msgid ""
@@ -1058,17 +1059,17 @@ msgid ""
 "get\n"
 "a list of available options. "
 msgstr ""
-"적어도 하나의 리모트에 유효한 구독이 없습니다. <a target=\"_blank\" href="
-"\"https://www.proxmox.com\">www.proxmox.com</a>을 방문하여\n"
-"사용 가능한 옵션 목록을 확인하세요."
+"적어도 하나의 리모트에 유효한 구독이 없습니다. <a target=\"_blank\" "
+"href=\"https://www.proxmox.com\">www.proxmox.com</a>을 방문하여\n"
+"사용 가능한 옵션 목록을 확인하세요. "
 
 #: proxmox-datacenter-manager/ui/src/dashboard/subscription_info.rs:65
 msgid ""
 "At least one remote has mixed levels of subscription. These remotes fall "
 "back to the lowest one."
 msgstr ""
-"적어도 하나의 리모트는 구독 수준이 혼합되어 있습니다. 이 리모트들은 가장 낮은"
-" 구독 수준으로 돌아갑니다."
+"적어도 하나의 리모트는 구독 수준이 혼합되어 있습니다. 이 리모트들은 가장 낮"
+"은 구독 수준으로 돌아갑니다."
 
 #: proxmox-widget-toolkit/src/window/NotificationMatcherEdit.js:504
 #: proxmox-widget-toolkit/src/window/NotificationMatcherEdit.js:902
@@ -1457,7 +1458,7 @@ msgstr "사용자 바인드"
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/hardware_panel.rs:87
 msgid "Bios"
-msgstr ""
+msgstr "바이오스"
 
 #: pmg-gui/js/QuarantineView.js:28 pmg-gui/js/SpamContextMenu.js:25
 #: pmg-gui/js/SpamQuarantine.js:271 pmg-gui/js/UserBlackWhiteList.js:55
@@ -1815,7 +1816,7 @@ msgstr "게스트 에이전트에서 정보를 가져올 수 없습니다.<br>�
 
 #: pve-manager/www/manager6/window/Migrate.js:371
 msgid "Cannot migrate VM with local CD/DVD"
-msgstr "로컬 CD/DVD로 VM을 마이그레이션할 수 없습니다."
+msgstr "로컬 CD/DVD로 VM을 마이그레이션할 수 없습니다"
 
 #: pve-manager/www/manager6/window/Migrate.js:317
 msgid "Cannot migrate VM with local resources: {0}"
@@ -1827,15 +1828,17 @@ msgstr "{0}으로 인해 VM을 마이그레이션할 수 없습니다."
 
 #: pve-manager/www/manager6/window/Migrate.js:397
 msgid "Cannot migrate conntrack state, source node is lacking support."
-msgstr "conntrack 상태를 마이그레이션할 수 없습니다. 소스 노드에 대한 지원이 부족합니다."
+msgstr ""
+"conntrack 상태를 마이그레이션할 수 없습니다. 소스 노드에 대한 지원이 부족합니"
+"다."
 
 #: pve-manager/www/manager6/window/Migrate.js:406
 msgid ""
 "Cannot migrate conntrack state, target node is lacking support. Active "
 "network connections might get dropped."
 msgstr ""
-"conntrack 상태를 마이그레이션할 수 없습니다. 대상 노드에 대한 지원이 부족합니다. 활성 네"
-"트워크 연결이 끊어질 수 있습니다."
+"conntrack 상태를 마이그레이션할 수 없습니다. 대상 노드에 대한 지원이 부족합니"
+"다. 활성 네트워크 연결이 끊어질 수 있습니다."
 
 #: pve-manager/www/manager6/window/Migrate.js:535
 msgid "Cannot migrate container, because {0}."
@@ -2621,8 +2624,8 @@ msgid ""
 "Conntrack state migration disabled. Active network connections might get "
 "dropped."
 msgstr ""
-"Conntrack 상태 마이그레이션이 비활성화되었습니다. 활성 네트워크 연결이 끊어질"
-" 수 있습니다."
+"Conntrack 상태 마이그레이션이 비활성화되었습니다. 활성 네트워크 연결이 끊어"
+"질 수 있습니다."
 
 #: proxmox-widget-toolkit/src/window/ConsentModal.js:15
 msgid "Consent"
@@ -3448,8 +3451,7 @@ msgstr "원본 삭제"
 msgid ""
 "Deleting or replacing the encryption key will break restoring backups "
 "created with it!"
-msgstr ""
-"암호화 키를 삭제하거나 교체하면 해당 키로 만든 백업 복원이 중단됩니다!"
+msgstr "암호화 키를 삭제하거나 교체하면 해당 키로 만든 백업 복원이 중단됩니다!"
 
 #: pmg-gui/js/AttachmentQuarantine.js:147
 #: pmg-gui/js/QuarantineContextMenu.js:19 pmg-gui/js/SpamContextMenu.js:6
@@ -3821,7 +3823,7 @@ msgstr "디스크 사용량"
 
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/config_panel.rs:135
 msgid "Disk, Network, USB"
-msgstr ""
+msgstr "디스크, 네트워크, USB"
 
 #: pve-manager/www/manager6/lxc/CreateWizard.js:225
 #: pve-manager/www/manager6/node/Config.js:318
@@ -4334,7 +4336,8 @@ msgstr "TLS 로깅 사용"
 
 #: pve-manager/www/manager6/ha/ResourceEdit.js:119
 msgid "Enable if HA resource should automatically adjust to HA rules."
-msgstr "HA 리소스가 HA 규칙에 자동으로 조정되도록 하려면 이 옵션을 활성화합니다."
+msgstr ""
+"HA 리소스가 HA 규칙에 자동으로 조정되도록 하려면 이 옵션을 활성화합니다."
 
 #: pve-manager/www/manager6/ha/rules/NodeAffinityRuleEdit.js:133
 msgid "Enable if the HA Resources must be restricted to the nodes."
@@ -6372,7 +6375,7 @@ msgstr "정책 입력"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:444
 msgid "Input invalid: {}"
-msgstr ""
+msgstr "입력이 잘못됨: {}"
 
 #: proxmox-backup/www/datastore/Summary.js:351
 msgid "Input/Output Operations per Second (IOPS)"
@@ -6426,7 +6429,7 @@ msgstr "간격"
 #: pve-manager/www/manager6/dc/MetricServerView.js:695
 #: pve-manager/www/manager6/dc/MetricServerView.js:716
 msgid "Invalid JSON format"
-msgstr ""
+msgstr "JSON 형식이 잘못됨"
 
 #: proxmox-widget-toolkit/src/form/ComboGrid.js:395
 #: proxmox-widget-toolkit/src/form/ComboGrid.js:474
@@ -6940,7 +6943,7 @@ msgstr "링크된 클론"
 #: proxmox-yew-comp/src/configuration/network_view.rs:204
 #: proxmox-yew-comp/src/configuration/mod.rs:30
 msgid "Linux Bond"
-msgstr ""
+msgstr "리눅스 본드"
 
 #: proxmox-yew-comp/src/configuration/network_view.rs:198
 #: proxmox-yew-comp/src/configuration/mod.rs:29
@@ -7238,7 +7241,7 @@ msgstr "MB"
 
 #: pve-manager/www/manager6/ceph/ServiceList.js:50
 msgid "MDS ID"
-msgstr ""
+msgstr "MDS ID"
 
 #: pve-manager/www/manager6/qemu/PCIEdit.js:260
 msgid "MDev Type"
@@ -7692,8 +7695,8 @@ msgid ""
 "Migrating VM with local resources: {0}. This might fail if the resources are "
 "not available on the target node."
 msgstr ""
-"로컬 리소스가 있는 VM을 마이그레이션합니다: {0}. 대상 노드에서 리소스를 사용할 수"
-" 없는 경우 실패할 수 있습니다."
+"로컬 리소스가 있는 VM을 마이그레이션합니다: {0}. 대상 노드에서 리소스를 사용"
+"할 수 없는 경우 실패할 수 있습니다."
 
 #: pve-manager/www/manager6/dc/OptionView.js:357
 msgid "Migration"
@@ -8361,7 +8364,7 @@ msgstr "계정이 구성되지 않음"
 
 #: proxmox-backup/www/Utils.js:740
 msgid "No Activity"
-msgstr ""
+msgstr "활동 없음"
 
 #: pmg-gui/js/AttachmentGrid.js:81 pmg-gui/js/AttachmentGrid.js:101
 msgid "No Attachments"
@@ -9564,7 +9567,7 @@ msgstr "경로"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:68
 msgid "Path Style"
-msgstr ""
+msgstr "경로 스타일"
 
 #: pve-manager/www/manager6/lxc/DeviceEdit.js:59
 msgid "Path has to start with /dev/"
@@ -9623,8 +9626,8 @@ msgid ""
 "Pending changes (Either reboot or use 'Apply Configuration' (needs "
 "ifupdown2) to activate)"
 msgstr ""
-"보류 중인 변경 사항(재부팅하거나 '구성 적용'을 사용하여 활성화"
-"하세요(ifupdown2 필요)"
+"보류 중인 변경 사항(재부팅하거나 '구성 적용'을 사용하여 활성화하세요"
+"(ifupdown2 필요)"
 
 #: pmg-gui/js/SpamScoreDistribution.js:44
 msgid "Percentage"
@@ -9935,8 +9938,8 @@ msgid ""
 "Prefer a fast and local storage, ideally with support for discard and thin-"
 "provisioning or sparse files."
 msgstr ""
-"빠르고 로컬한 스토리지를 선호하며, 이상적으로는 삭제 및 씬 프로비저닝이나 "
-"스파스(sparse) 파일을 지원하는 것이 좋습니다."
+"빠르고 로컬한 스토리지를 선호하며, 이상적으로는 삭제 및 씬 프로비저닝이나 스"
+"파스(sparse) 파일을 지원하는 것이 좋습니다."
 
 #: pve-manager/www/manager6/Utils.js:32
 msgid "Premium"
@@ -10139,7 +10142,7 @@ msgstr "Proxmox 메일 게이트웨이 격리 도움말"
 
 #: proxmox-yew-comp/src/proxmox_product.rs:61
 msgid "Proxmox Offline Mirror"
-msgstr ""
+msgstr "Proxmox 오프라인 미러"
 
 #: pve-manager/www/manager6/window/LoginWindow.js:351
 msgid "Proxmox VE Login"
@@ -10147,7 +10150,7 @@ msgstr "Proxmox VE 로그인"
 
 #: proxmox-yew-comp/src/proxmox_product.rs:58
 msgid "Proxmox Virtual Environment"
-msgstr ""
+msgstr "Proxmox 가상 환경"
 
 #: pve-manager/www/manager6/window/Backup.js:111
 #: pve-manager/www/manager6/window/Prune.js:212 proxmox-backup/www/Utils.js:450
@@ -11415,8 +11418,8 @@ msgid ""
 "Run jobs as soon as possible if they couldn't start on schedule, for "
 "example, due to the node being offline."
 msgstr ""
-"예를 들어 노드가 오프라인 상태인 등의 이유로 일정에 따라 작업을 시작할 수 "
-"없는 경우 최대한 빨리 작업을 실행합니다."
+"예를 들어 노드가 오프라인 상태인 등의 이유로 일정에 따라 작업을 시작할 수 없"
+"는 경우 최대한 빨리 작업을 실행합니다."
 
 #: pve-manager/www/manager6/dc/Backup.js:622
 #: proxmox-backup/www/config/GCView.js:163
@@ -11458,7 +11461,6 @@ msgid "S.Port"
 msgstr "S.Port"
 
 #: proxmox-backup/www/window/DataStoreEdit.js:64
-
 msgid "S3 (tech preview)"
 msgstr "S3 (테크 프리뷰)"
 
@@ -11723,7 +11725,7 @@ msgstr "검색"
 
 #: proxmox-datacenter-manager/ui/src/widget/search_box.rs:123
 msgid "Search (Ctrl+Space / Ctrl+Shift+F)"
-msgstr ""
+msgstr "검색 (Ctrl+Space / Ctrl+Shift+F)"
 
 #: proxmox-widget-toolkit/src/node/DNSEdit.js:19
 #: proxmox-widget-toolkit/src/node/DNSView.js:30
@@ -12900,7 +12902,7 @@ msgstr ""
 #: pve-manager/www/manager6/ha/rules/NodeAffinityRuleEdit.js:129
 #: pve-manager/www/manager6/ha/rules/NodeAffinityRules.js:15
 msgid "Strict"
-msgstr ""
+msgstr "엄격"
 
 #: pve-manager/www/manager6/qemu/PCIEdit.js:332
 msgid "Sub-Device ID"
@@ -13112,11 +13114,11 @@ msgstr "작업 동기화"
 #: proxmox-backup/www/window/SyncJobEdit.js:12
 #: proxmox-backup/www/window/SyncJobEdit.js:49
 msgid "Sync Job - Pull Direction"
-msgstr ""
+msgstr "동기화 작업 - 풀 위치"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:35
 msgid "Sync Job - Push Direction"
-msgstr ""
+msgstr "동기화 작업 - 푸시 위치"
 
 #: proxmox-backup/www/config/SyncView.js:43
 #: proxmox-backup/www/window/NotifyOptions.js:132
@@ -13591,11 +13593,11 @@ msgstr "텍스트 교체"
 
 #: pve-manager/www/manager6/ha/RuleErrorsModal.js:17
 msgid "The HA rule has no errors."
-msgstr ""
+msgstr "HA 규칙에는 오류가 없습니다."
 
 #: pve-manager/www/manager6/ha/RuleErrorsModal.js:29
 msgid "The HA rule has the following errors:"
-msgstr ""
+msgstr "HA 규칙에 다음과 같은 오류가 있습니다:"
 
 #: pve-manager/www/manager6/ceph/Pool.js:215
 msgid ""
@@ -13635,8 +13637,8 @@ msgid ""
 "The node-specific 'vzdump.conf' or, if this is not set, the default from the "
 "config schema is used to determine fallback values."
 msgstr ""
-"노드별 'vzdump.conf' 또는 이것이 설정되지 않은 경우 구성 스키마의 기본값이 대체 "
-"값을 결정하는 데 사용됩니다."
+"노드별 'vzdump.conf' 또는 이것이 설정되지 않은 경우 구성 스키마의 기본값이 대"
+"체 값을 결정하는 데 사용됩니다."
 
 #: pve-manager/www/manager6/dc/Backup.js:405
 msgid "The notes are added to each backup created by this job."
@@ -13713,7 +13715,7 @@ msgstr "테마"
 
 #: proxmox-yew-comp/src/theme_dialog.rs:57
 msgid "Theme mode"
-msgstr ""
+msgstr "테마 모드"
 
 #: proxmox-yew-comp/src/theme_dialog.rs:53
 msgid "Theme name"
@@ -13739,7 +13741,7 @@ msgstr "올바른 호스트명이 아님"
 
 #: pve-manager/www/manager6/qemu/DisplayEdit.js:124
 msgid "This option depends on your display type."
-msgstr ""
+msgstr "이 옵션은 디스플레이 유형에 따라 달라집니다."
 
 #: pve-manager/www/manager6/grid/BackupView.js:208
 #: pve-manager/www/manager6/lxc/Resources.js:252
@@ -13920,7 +13922,7 @@ msgstr "너무 길면, IP 세트 사용을 고려하세요."
 
 #: pve-manager/www/manager6/window/GuestImport.js:179
 msgid "Too many disks, could not map to SATA."
-msgstr ""
+msgstr "디스크가 너무 많아서 SATA에 매핑할 수 없습니다."
 
 #: pmg-gui/js/Dashboard.js:454
 msgid "Top Receivers"
@@ -13979,7 +13981,7 @@ msgstr "총 코어"
 
 #: pmg-gui/js/MailTracker.js:235 pmg-gui/js/NavigationTree.js:140
 msgid "Tracking Center"
-msgstr "Tracking Center"
+msgstr "추적 센터"
 
 #: pmg-gui/js/DomainStatistics.js:87 pmg-gui/js/DomainStatistics.js:130
 #: pmg-gui/js/dashboard/MailProcessing.js:33
@@ -14408,7 +14410,7 @@ msgstr "업데이트"
 
 #: proxmox-backup/www/Utils.js:753
 msgid "Updating Microcode"
-msgstr ""
+msgstr "마이크로코드 업데이트 중"
 
 #: pmg-gui/js/ServerAdministration.js:45
 #: pve-manager/www/manager6/node/Config.js:270
@@ -15219,11 +15221,11 @@ msgstr "VirtIO RNG"
 #: pve-manager/www/manager6/qemu/HardwareView.js:356
 #: pve-manager/www/manager6/qemu/HardwareView.js:805
 msgid "Virtiofs"
-msgstr ""
+msgstr "Virtiofs"
 
 #: pve-manager/www/manager6/qemu/VirtiofsEdit.js:97
 msgid "Virtiofs Filesystem Passthrough"
-msgstr ""
+msgstr "Virtiofs 파일시스템 패스스루"
 
 #: proxmox-widget-toolkit/src/Schema.js:98
 msgid "Virtual"
@@ -15231,7 +15233,7 @@ msgstr "가상"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:266
 msgid "Virtual Environment Nodes"
-msgstr ""
+msgstr "가상 환경 노드"
 
 #: pve-manager/www/manager6/storage/Browser.js:160
 msgid "Virtual Guests"
@@ -15264,8 +15266,8 @@ msgid ""
 "Virtual guest seems to be running on source host. Import might fail or have "
 "inconsistent state!"
 msgstr ""
-"가상 게스트가 원본 호스트에서 실행 중인 것 같습니다. 가져오기가 실패하거나 상태가 "
-"일관되지 않을 수 있습니다!"
+"가상 게스트가 원본 호스트에서 실행 중인 것 같습니다. 가져오기가 실패하거나 상"
+"태가 일관되지 않을 수 있습니다!"
 
 #: pmg-gui/js/ContactStatistics.js:175 pmg-gui/js/DomainStatistics.js:101
 #: pmg-gui/js/DomainStatistics.js:144 pmg-gui/js/ReceiverStatistics.js:175
@@ -15345,7 +15347,7 @@ msgstr "WAL 크기"
 
 #: pve-manager/www/manager6/qemu/SevEdit.js:74
 msgid "WARNING: When using SEV-SNP no EFI disk is loaded as pflash."
-msgstr ""
+msgstr "경고: SEV-SNP를 사용하면 EFI 디스크가 pflash로 로드되지 않습니다."
 
 #: pve-manager/www/manager6/qemu/ProcessorEdit.js:161
 msgid ""
@@ -15382,7 +15384,6 @@ msgstr "Wake-on-LAN"
 msgid "Warning"
 msgid_plural "Warnings"
 msgstr[0] "경고"
-msgstr[1] "경고"
 
 #: pve-manager/www/manager6/window/FirewallEnableEdit.js:28
 msgid "Warning: Firewall still disabled at datacenter level!"
@@ -15424,7 +15425,7 @@ msgstr "마모"
 
 #: proxmox-datacenter-manager/ui/src/remotes/edit_remote.rs:114
 msgid "Web UI URL"
-msgstr ""
+msgstr "웹 UI URL"
 
 #: proxmox-widget-toolkit/src/panel/TfaView.js:268 pmg-gui/js/TFAView.js:97
 #: proxmox-yew-comp/src/tfa/tfa_view.rs:251
@@ -15572,7 +15573,8 @@ msgid ""
 "Without any keep option, the storage's configuration or node's vzdump.conf "
 "is used as fallback"
 msgstr ""
-"유지 옵션이 없으면 스토리지 구성이나 노드의 vzdump.conf가 대체 수단으로 사용됩니다"
+"유지 옵션이 없으면 스토리지 구성이나 노드의 vzdump.conf가 대체 수단으로 사용"
+"됩니다"
 
 #: pve-yew-mobile-gui/src/pages/page_task_status.rs:133
 msgid "Worker ID"
@@ -15730,7 +15732,7 @@ msgstr ""
 
 #: pmg-gui/js/DKIMSettings.js:9
 msgid "You need to create a Selector before enabling DKIM Signing"
-msgstr "DKIM 서명을 사용 설정하기 전에 선택기를 만들어야 합니다."
+msgstr "DKIM 서명을 사용 설정하기 전에 선택기를 만들어야 합니다"
 
 #: pve-manager/www/manager6/window/CephInstall.js:39
 msgid "You need to create an initial config once."
@@ -15779,7 +15781,7 @@ msgstr "ZB"
 
 #: pve-manager/www/manager6/node/Summary.js:252
 msgid "ZFS ARC"
-msgstr ""
+msgstr "ZFS ARC"
 
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:17
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:71
@@ -15856,21 +15858,21 @@ msgstr "평균"
 #: pve-manager/www/manager6/window/Migrate.js:437
 #: pve-manager/www/manager6/window/Migrate.js:527
 msgid "blocking HA resource {0} on selected target node"
-msgstr ""
+msgstr "선택한 대상 노드에서 HA 리소스 {0} 차단"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:49
 msgid "cannot represent number as f64"
-msgstr ""
+msgstr "숫자를 f64로 표현할 수 없습니다"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:103
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:112
 msgid "cannot represent number as signed integer"
-msgstr ""
+msgstr "숫자를 부호 있는 정수로 표현할 수 없습니다"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:179
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:188
 msgid "cannot represent number as unsigned integer"
-msgstr ""
+msgstr "숫자를 부호 없는 정수로 표현할 수 없습니다"
 
 #: proxmox-widget-toolkit/src/node/APT.js:35
 #: proxmox-yew-comp/src/apt_package_manager.rs:308
@@ -15970,13 +15972,13 @@ msgstr "유효하지 않은 값을 얻었음"
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:124
 #: proxmox-yew-widget-toolkit/src/widget/form/number.rs:200
 msgid "got wrong data type"
-msgstr ""
+msgstr "데이터 유형이 잘못되었습니다"
 
 #: proxmox-yew-widget-toolkit/src/widget/form/radio_button.rs:147
 #: proxmox-yew-widget-toolkit/src/widget/form/field.rs:327
 #: proxmox-yew-widget-toolkit/src/widget/form/selector.rs:206
 msgid "got wrong data type."
-msgstr ""
+msgstr "데이터 유형이 잘못되었습니다."
 
 #: proxmox-backup/www/datastore/Content.js:1369
 msgid "group, date or owner"
@@ -16099,7 +16101,7 @@ msgstr "VLAN 없음"
 #: pve-yew-mobile-gui/src/pages/page_resources.rs:366
 #: pve-yew-mobile-gui/src/pages/page_task_status.rs:179
 msgid "no data loaded"
-msgstr ""
+msgstr "데이터가 로드되지 않았습니다"
 
 #: pve-manager/www/manager6/window/Settings.js:394
 msgid "noVNC Settings"
@@ -16251,7 +16253,7 @@ msgstr "숫자를 파싱할 수 없음: {}"
 #: proxmox-yew-comp/src/bandwidth_selector.rs:104
 #: proxmox-yew-comp/src/bandwidth_selector.rs:113
 msgid "unable to parse value: {}"
-msgstr ""
+msgstr "값을 파싱할 수 없음: {}"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:207
 #: proxmox-backup/www/window/InfluxDbEdit.js:12
@@ -16356,6 +16358,10 @@ msgid ""
 "  \"X-Custom-Header\": \"value\"\n"
 "}"
 msgstr ""
+"{\n"
+"  \"Authorization\": \"Bearer token\",\n"
+"  \"X-Custom-Header\": \"value\"\n"
+"}"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:705
 msgid ""
@@ -16365,6 +16371,11 @@ msgid ""
 "  \"region\": \"us-east-1\"\n"
 "}"
 msgstr ""
+"{\n"
+"  \"environment\": \"production\",\n"
+"  \"datacenter\": \"dc1\",\n"
+"  \"region\": \"us-east-1\"\n"
+"}"
 
 #: proxmox-datacenter-manager/ui/src/pve/node.rs:275
 msgid "{0} ({1} sockets)"
@@ -16381,7 +16392,7 @@ msgstr "{0} ({1}/{2}) 성공"
 
 #: proxmox-datacenter-manager/ui/src/pve/remote.rs:194
 msgid "{0} / {1} (running / total)"
-msgstr ""
+msgstr "{0} / {1} (실행 중/ 총계)"
 
 #: pmg-gui/js/AttachmentGrid.js:75
 msgid "{0} Attachments"
@@ -16429,7 +16440,7 @@ msgstr "{0} 개월"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:93
 msgid "{0} nodes have an unknown status"
-msgstr "노드의 상태를 알 수 없음"
+msgstr "{0} 노드의 상태를 알 수 없음"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/mod.rs:101
 msgid "{0} nodes online"
@@ -16511,7 +16522,6 @@ msgid "{0}% ({1} of {2})"
 msgstr "{0}% ({2} 중 {1})"
 
 #: proxmox-widget-toolkit/src/Utils.js:1122
-#, javascript-format
 msgid "{0}% of {1}"
 msgstr "{1} 중 {0}%"
 
@@ -16615,8 +16625,8 @@ msgstr "{0}, 그룹: {1}"
 #~ "target=\"_blank\" href=\"{}\">www.proxmox.com</a> to get\n"
 #~ "a list of available options. "
 #~ msgstr ""
-#~ "이 서버에 대한 유효한 구독이 없습니다. <a target=\"_blank\" href=\"{}\">www."
-#~ "proxmox.com</a>을 방문하여 사용 가능한 옵션 목록을 확인하세요."
+#~ "이 서버에 대한 유효한 구독이 없습니다. <a target=\"_blank\" href=\"{}"
+#~ "\">www.proxmox.com</a>을 방문하여 사용 가능한 옵션 목록을 확인하세요."
 
 #~ msgid "one"
 #~ msgid_plural "plural"
