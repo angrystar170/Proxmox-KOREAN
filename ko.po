@@ -1049,7 +1049,7 @@ msgid ""
 "At least one remote could not be queried and has an unknown subscription "
 "status."
 msgstr ""
-"최소 한 개의 리모컨을 쿼리할 수 없으며 해당 리모컨의 구독 상태를 알 수 없습니"
+"최소 한 개의 리모트을 쿼리할 수 없으며 해당 리모트의 구독 상태를 알 수 없습니"
 "다."
 
 #: proxmox-datacenter-manager/ui/src/dashboard/subscription_info.rs:58
