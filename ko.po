@@ -9130,8 +9130,7 @@ msgstr "On-site"
 #: proxmox-yew-comp/src/apt_package_manager.rs:358
 msgid "One item"
 msgid_plural "{} items"
-msgstr[0] "한 개의 항목"
-msgstr[1] "{}개의 항목"
+msgstr[0] "{}개의 항목"
 
 #: pve-yew-mobile-gui/src/pages/page_node_status/services_panel.rs:77
 msgid "One or more required services not running"
@@ -9140,8 +9139,7 @@ msgstr ""
 #: proxmox-yew-comp/src/apt_repositories.rs:821
 msgid "One repository"
 msgid_plural "{n} repositories"
-msgstr[0] "한 개의 리포지토리"
-msgstr[1] "{n} 개의 리포지토리"
+msgstr[0] "{n} 개의 리포지토리"
 
 #: pve-manager/www/manager6/data/ResourceStore.js:87
 #: pve-manager/www/manager6/dc/Health.js:108
@@ -9175,7 +9173,7 @@ msgstr "작업 열기"
 
 #: proxmox-datacenter-manager/ui/src/pve/mod.rs:187
 msgid "Open Web UI"
-msgstr ""
+msgstr "웹 UI 열기"
 
 #: pve-manager/www/manager6/window/Settings.js:297
 msgid "Open editor on double-click"
