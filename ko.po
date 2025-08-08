@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: 2025-08-04 21:55+0200\n"
-"PO-Revision-Date: 2025-08-08 18:00+0900\n"
+"PO-Revision-Date: 2025-08-08 18:36+0900\n"
 "Last-Translator: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language-Team: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language: ko_KR\n"
@@ -42,7 +42,7 @@ msgstr "(없음)"
 
 #: proxmox-backup/www/config/SyncView.js:273
 msgid "(remote) store, remote, id, owner, direction"
-msgstr "(리모트) 저장소, 리모트, ID, 소유자, 위치"
+msgstr "(리모트) 스토리지, 리모트, ID, 소유자, 방향(direction)"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:335
 msgid ".tar.zst"
@@ -2507,7 +2507,7 @@ msgstr "예약 백업 구성"
 
 #: pve-manager/www/manager6/sdn/fabrics/InterfacePanel.js:36
 msgid "Configure the IP in the fabric, instead of /etc/network/interfaces"
-msgstr ""
+msgstr "/etc/network/interfaces 대신 패브릭에서 IP를 구성하세요."
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:48
 #: proxmox-yew-comp/src/apt_repositories.rs:656
@@ -2810,11 +2810,11 @@ msgstr "클러스터에서 ceph 설치를 감지할 수 없음"
 
 #: pmg-gui/js/DKIMSettings.js:41
 msgid "Could not read private key - please create a selector first!"
-msgstr ""
+msgstr "개인 키를 읽을 수 없습니다 - 먼저 선택기를 만들어 주세요!"
 
 #: proxmox-datacenter-manager/ui/src/dashboard/remote_panel.rs:69
 msgid "Could reach all remotes."
-msgstr ""
+msgstr "모든 리모트에 접근할 수 있습니다."
 
 #: pmg-gui/js/ContactStatistics.js:168 pmg-gui/js/Dashboard.js:488
 #: pmg-gui/js/DomainStatistics.js:94 pmg-gui/js/DomainStatistics.js:137
@@ -3389,6 +3389,8 @@ msgid ""
 "the cluster or single node. Fingerprints are required for self-signed "
 "certificates."
 msgstr ""
+"Proxmox 데이터센터 관리자가 클러스터 또는 단일 노드에 접속하는 데 사용할 수 "
+"있는 주소 집합을 정의합니다. 자체 서명 인증서에는 지문이 필요합니다."
 
 #: pmg-gui/js/PBSSnapshotView.js:182
 msgid "Delay"
@@ -3673,7 +3675,7 @@ msgstr "자릿수"
 #: pve-manager/www/manager6/grid/FirewallRules.js:266
 #: proxmox-backup/www/config/SyncView.js:310
 msgid "Direction"
-msgstr "위치"
+msgstr "방향(Direction)"
 
 #: proxmox-widget-toolkit/src/Schema.js:92
 #: proxmox-widget-toolkit/src/Utils.js:61
@@ -4501,7 +4503,7 @@ msgstr "영어"
 
 #: proxmox-backup/www/datastore/OptionView.js:286
 msgid "Ensure underlying storage honors access time updates"
-msgstr "기본 저장소가 액세스 시간 업데이트를 준수하는지 확인하세요"
+msgstr "기본 스토리지가 액세스 시간 업데이트를 준수하는지 확인하세요"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:141
 msgid "Enter URL to download"
@@ -4509,7 +4511,7 @@ msgstr "다운로드할 URL 입력"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:347
 msgid "Enterprise (recommended)"
-msgstr "Enterprise(권장)"
+msgstr "엔터프라이즈(권장)"
 
 #: proxmox-widget-toolkit/src/Utils.js:1397
 msgid "Enterprise repository needs valid subscription"
@@ -6106,7 +6108,7 @@ msgstr "IP 필터"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:52
 msgid "IP or FQDN S3 endpoint (allows {{bucket}} or {{region}} templating)"
-msgstr ""
+msgstr "IP 또는 FQDN S3 엔드포인트({{bucket}} 또는 {{region}} 템플릿 허용)"
 
 #: pve-manager/www/manager6/dc/ClusterEdit.js:261
 msgid "IP resolved by node's hostname"
@@ -6250,7 +6252,7 @@ msgid ""
 "Importing an OVA temporarily requires extra space on the working storage "
 "while extracting the contained disks for further processing."
 msgstr ""
-"OVA를 가져오려면 추가 처리를 위해 포함된 디스크를 추출하는 동안 작업 저장소"
+"OVA를 가져오려면 추가 처리를 위해 포함된 디스크를 추출하는 동안 작업 스토리지"
 "에 임시로 추가 공간이 필요합니다."
 
 #: pmg-gui/js/Utils.js:113 pve-manager/www/manager6/ceph/StatusDetail.js:39
@@ -6502,7 +6504,7 @@ msgstr "발급자 URL"
 
 #: proxmox-yew-comp/src/acme/acme_domains.rs:327
 msgid "It is not possible to configure more that 5 ACME domain."
-msgstr ""
+msgstr "ACME 도메인을 5개 이상 구성하는 것은 불가능합니다."
 
 #: pve-manager/www/manager6/window/Snapshot.js:103
 msgid ""
@@ -6680,7 +6682,7 @@ msgstr "모든 백업 보관"
 
 #: proxmox-backup/www/datastore/OptionView.js:62
 msgid "Keep configured jobs and permissions"
-msgstr ""
+msgstr "구성된 작업 및 권한 유지"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:288
 msgid "Keep encryption key"
@@ -6918,7 +6920,7 @@ msgstr "한도 (Bytes/Period)"
 
 #: pve-manager/www/manager6/panel/BackupAdvancedOptions.js:157
 msgid "Limit I/O bandwidth."
-msgstr ""
+msgstr "I/O 대역폭을 제한합니다."
 
 #: pmg-gui/js/Settings.js:266 pve-manager/www/manager6/window/Settings.js:362
 #: proxmox-backup/www/window/Settings.js:266
@@ -7374,7 +7376,7 @@ msgstr "매핑한 디바이스"
 
 #: pve-manager/www/manager6/window/Migrate.js:296
 msgid "Mapped Resources ({0}) not available on selected target."
-msgstr ""
+msgstr "선택한 대상에서 매핑된 리소스({0})를 사용할 수 없습니다."
 
 #: pve-manager/www/manager6/qemu/VirtiofsEdit.js:35
 msgid "Mapping ID"
@@ -7947,11 +7949,11 @@ msgstr "여러 명의 수신자는 공백, 쉼표 또는 세미콜론으로 구�
 
 #: proxmox-widget-toolkit/src/panel/WebhookEditPanel.js:62
 msgid "Must be a valid URL"
-msgstr ""
+msgstr "유효한 URL이어야 합니다"
 
 #: proxmox-yew-comp/src/tfa/tfa_add_totp.rs:190
 msgid "Must be base32 [A-Z2-7=]"
-msgstr ""
+msgstr "base32[A-Z2-7=]이어야 합니다."
 
 #: pve-manager/www/manager6/form/MultiPCISelector.js:42
 msgid "Must choose at least one device"
@@ -8002,7 +8004,7 @@ msgstr "지금"
 
 #: pve-manager/www/manager6/window/GuestImport.js:1009
 msgid "NVMe disks are currently not supported, '{0}' will get attached as SCSI"
-msgstr ""
+msgstr "현재 NVMe 디스크는 지원되지 않으며, '{0}'은(는) SCSI로 연결됩니다"
 
 #: proxmox-widget-toolkit/src/form/UserSelector.js:33
 #: proxmox-widget-toolkit/src/grid/ObjectGrid.js:391
@@ -8290,7 +8292,7 @@ msgstr "클러스터의 최신 Ceph 버전은 {0}입니다."
 
 #: proxmox-yew-comp/src/subscription_info.rs:19
 msgid "Newly set subscription, not yet checked"
-msgstr ""
+msgstr "새로 설정된 구독, 아직 확인되지 않음"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:378
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:495
@@ -9137,7 +9139,7 @@ msgstr[0] "{}개의 항목"
 
 #: pve-yew-mobile-gui/src/pages/page_node_status/services_panel.rs:77
 msgid "One or more required services not running"
-msgstr ""
+msgstr "하나 이상의 필수 서비스가 실행되지 않습니다"
 
 #: proxmox-yew-comp/src/apt_repositories.rs:821
 msgid "One repository"
@@ -10312,7 +10314,7 @@ msgstr "사용자 정보 엔드포인트 쿼리"
 
 #: proxmox-datacenter-manager/ui/src/pve/tree.rs:539
 msgid "Querying Remote..."
-msgstr ""
+msgstr "리모트 쿼리 중..."
 
 #: pmg-gui/js/QueueAdministration.js:5
 msgid "Queue Administration"
@@ -10825,7 +10827,7 @@ msgstr "리모트 네임스페이스"
 
 #: proxmox-backup/www/config/SyncView.js:347
 msgid "Remote Store"
-msgstr "리모트 저장소"
+msgstr "리모트 스토리지"
 
 #: proxmox-backup/www/Utils.js:455 proxmox-backup/www/Utils.js:456
 msgid "Remote Sync"
@@ -10966,7 +10968,7 @@ msgstr "모든 첨부파일 제거"
 
 #: proxmox-backup/www/datastore/OptionView.js:23
 msgid "Remove data from S3 bucket and local cache (dangerous!)"
-msgstr ""
+msgstr "S3 버킷과 로컬 캐시에서 데이터를 제거합니다(위험!)"
 
 #: proxmox-backup/www/config/PruneView.js:177
 #: proxmox-backup/www/config/SyncView.js:248
@@ -10996,8 +10998,8 @@ msgid ""
 "Remove snapshots from sync target datastore if they vanished from source "
 "datastore?"
 msgstr ""
-"원본 데이터 저장소에서 스냅샷이 사라진 경우 동기화 대상 데이터 저장소에서 스"
-"냅샷을 제거하시겠습니까?"
+"원본 데이터 스토리지에서 스냅샷이 사라진 경우 동기화 대상 데이터 스토리지에"
+"서 스냅샷을 제거하시겠습니까?"
 
 #: proxmox-yew-comp/src/auth_edit_ldap.rs:142
 msgid "Remove vanished properties"
@@ -11085,7 +11087,7 @@ msgstr "리포지토리 상태"
 
 #: proxmox-backup/www/window/DatastoreRepoInfo.js:65
 msgid "Repository for CLI and API"
-msgstr ""
+msgstr "CLI 및 API용 리포지토리"
 
 #: pmg-gui/js/LoginView.js:176 pmg-gui/js/LoginView.js:404
 msgid "Request Quarantine Link"
@@ -11118,16 +11120,16 @@ msgstr "'{0}' 권한 필요"
 #: pve-yew-mobile-gui/src/pages/page_qemu_status/dashboard_panel.rs:242
 #: proxmox-yew-comp/src/utils.rs:410
 msgid "Reset"
-msgstr "리셋"
+msgstr "재설정"
 
 #: pmg-gui/js/Settings.js:183 pve-manager/www/manager6/window/Settings.js:258
 #: proxmox-backup/www/window/Settings.js:183
 msgid "Reset all layout changes (for example, column widths)"
-msgstr "모든 레이아웃 변경 사항 초기화 (예: 열 너비)"
+msgstr "모든 레이아웃 변경 사항 재설정 (예: 열 너비)"
 
 #: proxmox-widget-toolkit/src/window/Edit.js:331
 msgid "Reset form data"
-msgstr ""
+msgstr "양식 데이터 재설정"
 
 #: pmg-gui/js/RuleConfiguration.js:100
 msgid "Reset rule database to factory defaults?"
@@ -11436,7 +11438,7 @@ msgstr "마운트 시 실행"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:499
 msgid "Run this job when a relevant removable datastore gets mounted."
-msgstr "관련 이동식 데이터 저장소가 마운트되면 이 작업을 실행합니다."
+msgstr "관련 이동식 데이터 스토리지가 마운트되면 이 작업을 실행합니다."
 
 #: pve-manager/www/manager6/dc/Guests.js:42
 #: pve-manager/www/manager6/dc/Guests.js:87
@@ -11462,7 +11464,7 @@ msgstr "S.Port"
 
 #: proxmox-backup/www/window/DataStoreEdit.js:64
 msgid "S3 (tech preview)"
-msgstr "S3 (테크 프리뷰)"
+msgstr "S3 (기술 프리뷰)"
 
 #: proxmox-backup/www/window/S3ClientEdit.js:10
 msgid "S3 Endpoint"
@@ -11618,7 +11620,7 @@ msgstr "TOTP 앱에서 QR 코드를 스캔합니다. 그리고 인증 코드를 
 #: pve-manager/www/manager6/window/SafeDestroyGuest.js:29
 msgid "Scan all enabled storages for unreferenced disks and delete them."
 msgstr ""
-"활성화된 모든 저장소에서 참조되지 않는 디스크가 있는지 스캔하고 삭제합니다."
+"활성화된 모든 스토리지에서 참조되지 않는 디스크가 있는지 스캔하고 삭제합니다."
 
 #: pve-manager/www/manager6/form/StorageScanNodeSelector.js:15
 msgid "Scan for available storages on the selected node"
@@ -11845,7 +11847,7 @@ msgstr "선택 모드"
 #: pmg-gui/js/DKIMSettings.js:55 pmg-gui/js/DKIMSettings.js:63
 #: pmg-gui/js/DKIMSettings.js:144
 msgid "Selector"
-msgstr "선택자"
+msgstr "선택기"
 
 #: pmg-gui/js/MailProxyOptions.js:103
 msgid "Send NDR on Blocked E-Mails"
@@ -11908,20 +11910,20 @@ msgstr "시리얼"
 #: pve-manager/www/manager6/qemu/SerialEdit.js:33
 #: pve-manager/www/manager6/qemu/SerialEdit.js:58
 msgid "Serial Port"
-msgstr "직렬 포트"
+msgstr "시리얼 포트"
 
 #: pve-manager/www/manager6/qemu/DisplayEdit.js:56
 msgid "Serial interface '{0}' is not correctly configured."
-msgstr "직렬 인터페이스 '{0}'이(가) 올바르게 구성되지 않았습니다."
+msgstr "시리얼 인터페이스 '{0}'이(가) 올바르게 구성되지 않았습니다."
 
 #: pve-manager/www/manager6/window/GuestImport.js:1015
 msgid "Serial socket '{0}' will be mapped to a socket"
-msgstr ""
+msgstr "시리얼 소켓 '{0}'은 소켓에 매핑됩니다."
 
 #: pve-manager/www/manager6/Utils.js:610 pve-manager/www/manager6/Utils.js:611
 #: pve-manager/www/manager6/Utils.js:612 pve-manager/www/manager6/Utils.js:613
 msgid "Serial terminal"
-msgstr "Serial terminal"
+msgstr "시리얼 터미널"
 
 #: proxmox-widget-toolkit/src/panel/SmtpEditPanel.js:68
 #: proxmox-widget-toolkit/src/window/AuthEditLDAP.js:167
@@ -12065,7 +12067,7 @@ msgstr "설정"
 
 #: pve-manager/www/manager6/window/TreeSettingsEdit.js:61
 msgid "Settings are saved in the local storage of the browser"
-msgstr "설정은 브라우저의 로컬 저장소에 저장됩니다"
+msgstr "설정은 브라우저의 로컬 스토리지에 저장됩니다"
 
 #: proxmox-widget-toolkit/src/window/AddWebauthn.js:93
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:192
@@ -12396,7 +12398,7 @@ msgstr "스냅샷"
 
 #: pve-manager/www/manager6/storage/Base.js:97
 msgid "Snapshots as Volume-Chain are a technology preview."
-msgstr ""
+msgstr "볼륨 체인으로서의 스냅샷은 기술 프리뷰입니다."
 
 #: pve-manager/www/manager6/Utils.js:698
 #: pve-manager/www/manager6/storage/Browser.js:125
@@ -12467,7 +12469,7 @@ msgstr "원본 스토리지"
 
 #: pmg-gui/js/AuthEditOIDC.js:193
 msgid "Source for Role Assignment"
-msgstr ""
+msgstr "역할 할당을 위한 원본"
 
 #: pve-manager/www/manager6/window/Migrate.js:582
 msgid "Source node"
@@ -12660,13 +12662,15 @@ msgstr "시작/종료 순서"
 
 #: pve-manager/www/manager6/window/GuestImport.js:339
 msgid "Starts a VM and imports the disks in the background"
-msgstr ""
+msgstr "VM을 시작하고 백그라운드에서 디스크를 가져옵니다"
 
 #: pve-manager/www/manager6/window/GuestImport.js:341
 msgid ""
 "Starts a previously stopped VM on Proxmox VE and imports the disks in the "
 "background."
 msgstr ""
+"Proxmox VE에서 이전에 중지된 VM을 시작하고 백그라운드에서 디스크를 가져옵니"
+"다."
 
 #: proxmox-backup/www/dashboard/RunningTasks.js:78
 msgid "Starttime"
@@ -12898,6 +12902,8 @@ msgid ""
 "Storage(s) ({0}) not available on selected target. Start VM to use live "
 "storage migration or select other target node."
 msgstr ""
+"선택한 대상에서 스토리지({0})를 사용할 수 없습니다. 라이브 스토리지 마이그레"
+"이션을 사용하려면 VM을 시작하거나 다른 대상 노드를 선택하세요."
 
 #: pve-manager/www/manager6/ha/rules/NodeAffinityRuleEdit.js:129
 #: pve-manager/www/manager6/ha/rules/NodeAffinityRules.js:15
@@ -13151,11 +13157,11 @@ msgstr "작업 동기화"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:473
 msgid "Sync only encrypted backup snapshots, exclude others."
-msgstr ""
+msgstr "암호화된 백업 스냅샷만 동기화하고, 다른 것은 제외합니다."
 
 #: proxmox-backup/www/window/SyncJobEdit.js:486
 msgid "Sync only verified backup snapshots, exclude others."
-msgstr ""
+msgstr "검증된 백업 스냅샷만 동기화하고, 다른 스냅샷은 제외합니다."
 
 #: pmg-gui/js/LDAPConfig.js:569
 msgid "Synchronize"
@@ -13666,6 +13672,9 @@ msgid ""
 "we are not aware of any major issues, there may be some bugs and the "
 "Enterprise Repository is not yet available."
 msgstr ""
+"선택된 릴리스는 현재 기술 프리뷰(Technology Preview) 상태로 간주됩니다. 심각"
+"한 문제는 아직 파악되지 않았지만, 몇 가지 버그가 있을 수 있으며 엔터프라이즈 "
+"리포지토리는 아직 제공되지 않습니다."
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:306
 #: proxmox-yew-comp/src/apt_repositories.rs:895
@@ -13677,8 +13686,8 @@ msgid ""
 "The test repository should only be used for test setups or after consulting "
 "the official Proxmox support!"
 msgstr ""
-"테스트 저장소는 테스트 설정 또는 공식 Proxmox 지원팀에 문의한 후에만 사용해"
-"야 합니다!"
+"테스트 리포지토리는 테스트 설정 또는 공식 Proxmox 지원팀에 문의한 후에만 사용"
+"해야 합니다!"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:505
 #: proxmox-yew-comp/src/apt_repositories.rs:236
@@ -14890,15 +14899,15 @@ msgstr "VG 이름"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:101
 msgid "VID range includes not-a-number: {0}"
-msgstr ""
+msgstr "VID 범위에 '숫자가 아님(not-a-number)'이 포함됩니다: {0}"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:106
 msgid "VID range must go from lower to higher tag: {0}"
-msgstr ""
+msgstr "VID 범위는 낮은 태그에서 높은 태그로 이동해야 합니다: {0}"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:112
 msgid "VID range outside of allowed 2 and 4094 limit: {0}"
-msgstr ""
+msgstr "허용된 2 및 4094 제한을 벗어난 VID 범위: {0}"
 
 #: pve-manager/www/manager6/sdn/VnetACLView.js:173
 msgid "VLAN"
@@ -14970,6 +14979,7 @@ msgstr "VMware 이미지 유형"
 #: pve-manager/www/manager6/qemu/DisplayEdit.js:105
 msgid "VNC clipboard requires spice-tools installed in the Guest-VM."
 msgstr ""
+"VNC 클립보드를 사용하려면 게스트 VM에 Spice-Tools가 설치되어 있어야 합니다."
 
 #: pve-manager/www/manager6/form/SDNVnetSelector.js:28
 #: pve-manager/www/manager6/sdn/VnetEdit.js:123
@@ -15534,7 +15544,7 @@ msgstr "라벨 및 기타 남아 있는 데이터를 완전히 삭제"
 
 #: pve-manager/www/manager6/panel/BackupAdvancedOptions.js:175
 msgid "With 0, half of the available cores are used"
-msgstr ""
+msgstr "0을 사용하면 사용 가능한 코어의 절반이 사용됩니다."
 
 #: proxmox-backup/www/window/DatastoreRepoInfo.js:75
 msgid "With Current User"
@@ -16089,7 +16099,7 @@ msgstr "새로운"
 
 #: pve-manager/www/manager6/grid/FirewallOptions.js:88
 msgid "nftables (tech preview)"
-msgstr "nftables (테크 프리뷰)"
+msgstr "nftables (기술 프리뷰)"
 
 #: proxmox-widget-toolkit/src/form/VlanField.js:7
 #: pve-manager/www/manager6/form/VLanField.js:7
