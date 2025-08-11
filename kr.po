@@ -16631,7 +16631,6 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "Writeback cache"
 #~ msgstr "라이트백(Writeback) 캐시"
 
-#, fuzzy
 #~ msgid ""
 #~ "You do not have a valid subscription for this server. Please visit <a "
 #~ "target=\"_blank\" href=\"{}\">www.proxmox.com</a> to get\n"
@@ -16640,13 +16639,11 @@ msgstr "{0}, 그룹: {1}"
 #~ "이 서버에 대한 유효한 구독이 없습니다. <a target=\"_blank\" href=\"{}"
 #~ "\">www.proxmox.com</a>을 방문하여 사용 가능한 옵션 목록을 확인하세요."
 
-#, fuzzy
 #~ msgid "one"
 #~ msgid_plural "plural"
 #~ msgstr[0] "단일"
 #~ msgstr[1] "복수"
 
-#, fuzzy
 #~ msgctxt "context"
 #~ msgid "one"
 #~ msgid_plural "plural"
