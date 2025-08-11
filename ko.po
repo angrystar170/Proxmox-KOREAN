@@ -9384,7 +9384,7 @@ msgstr "덮어쓰기 설정"
 
 #: pve-manager/www/manager6/window/GuestStop.js:44
 msgid "Overrule active shutdown tasks"
-msgstr "활성 종료 태스크 무시"
+msgstr "시스템 종료 태스크의 활성 상태 무시"
 
 #: pve-manager/www/manager6/window/Restore.js:378
 #: proxmox-backup/www/tape/form/RetentionSelector.js:7
