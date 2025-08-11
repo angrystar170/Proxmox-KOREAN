@@ -16556,9 +16556,8 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "Auto"
 #~ msgstr "자동"
 
-#, fuzzy
 #~ msgid "Default)"
-#~ msgstr "기본"
+#~ msgstr "기본)"
 
 #~ msgid "Extra ID"
 #~ msgstr "추가 ID"
@@ -16587,9 +16586,8 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "On device path"
 #~ msgstr "디바이스 경로에서"
 
-#, fuzzy
 #~ msgid "Proxmox Datacenter Manager Login"
-#~ msgstr "Proxmox 백업 서버 로그인"
+#~ msgstr "Proxmox 데이터센터 관리자 로그인"
 
 #~ msgid "Restart pmg-smtp-filter"
 #~ msgstr "pmg-smtp-filter 재시작"
@@ -16603,7 +16601,6 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "Send email"
 #~ msgstr "이메일 전송"
 
-#, fuzzy
 #~ msgid "Setrvice"
 #~ msgstr "서비스"
 
@@ -16640,21 +16637,21 @@ msgstr "{0}, 그룹: {1}"
 #~ "target=\"_blank\" href=\"{}\">www.proxmox.com</a> to get\n"
 #~ "a list of available options. "
 #~ msgstr ""
-#~ "이 서버에 대한 유효한 구독이 없습니다. 사용 가능한 옵션 목록을 보려면 {0}"
-#~ "을(를) 방문하세요."
+#~ "이 서버에 대한 유효한 구독이 없습니다. <a target=\"_blank\" href=\"{}"
+#~ "\">www.proxmox.com</a>을 방문하여 사용 가능한 옵션 목록을 확인하세요."
 
 #, fuzzy
 #~ msgid "one"
 #~ msgid_plural "plural"
-#~ msgstr[0] "완료"
-#~ msgstr[1] "완료"
+#~ msgstr[0] "단일"
+#~ msgstr[1] "복수"
 
 #, fuzzy
 #~ msgctxt "context"
 #~ msgid "one"
 #~ msgid_plural "plural"
-#~ msgstr[0] "완료"
-#~ msgstr[1] "완료"
+#~ msgstr[0] "단일"
+#~ msgstr[1] "복수"
 
 #~ msgid "reload"
 #~ msgstr "다시 로드"
@@ -16677,11 +16674,11 @@ msgstr "{0}, 그룹: {1}"
 #, fuzzy
 #~ msgctxt "context"
 #~ msgid "{0} bar"
-#~ msgstr "{0} 년"
+#~ msgstr "{0} 막대"
 
 #, fuzzy
 #~ msgid "{0} {1}"
-#~ msgstr "{0} ({1})"
+#~ msgstr "{0} {1}"
 
 #, fuzzy
 #~ msgid "{1} {0}"
