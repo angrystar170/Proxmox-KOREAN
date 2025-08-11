@@ -16671,15 +16671,12 @@ msgstr "{0}, 그룹: {1}"
 #~ msgid "{0} ID"
 #~ msgstr "{0} ID"
 
-#, fuzzy
 #~ msgctxt "context"
 #~ msgid "{0} bar"
 #~ msgstr "{0} 막대"
 
-#, fuzzy
 #~ msgid "{0} {1}"
 #~ msgstr "{0} {1}"
 
-#, fuzzy
 #~ msgid "{1} {0}"
-#~ msgstr "ID {0}"
+#~ msgstr "{1} {0}"
